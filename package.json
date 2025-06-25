@@ -1,0 +1,33 @@
+{
+  "name": "vibelist-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch ./server/server.js",
+    "dev": "vite",
+    "conc": "concurrently 'vite' 'node --watch ./server/server.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamTweety/VibeList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamTweety/VibeList/issues"
+  },
+  "homepage": "https://github.com/TeamTweety/VibeList#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "react": "^19.1.0",
+    "react-router-dom": "^7.6.2"
+  }
+}
