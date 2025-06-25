@@ -1,0 +1,47 @@
+#homePage {
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#formStyle {
+  background: rgba(5, 20, 128, 0.3); /* semi-transparent orange */
+  padding: 5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Input field */
+#inputStyle {
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 0.8rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: none;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+   
+}
+/* #inputStyle::placeholder {
+  color: rgb(143, 123, 83);
+  font-style: italic; 
+  font-size: medium;
+} */
+
+#promptQuestion {
+  color: rgb(24, 52, 176); /* or orange, depending on your theme */
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* optional for glow over image */
+}
+
