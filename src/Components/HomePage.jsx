@@ -19,6 +19,7 @@ export function HomePage() {
         //     })
 
         //     if (response.ok) {
+        //         sessionStorage.setItem('userVibe', userVibe)
         //         navigate ('/playlist')
         //     } else {
         //         alert ('Unknown Error: Try Refreshing the page!')
@@ -28,6 +29,7 @@ export function HomePage() {
         //     alert ('Unknown Error: Try Refreshing the page!')
         // }
 
+        sessionStorage.setItem('userVibe', userVibe) //! Delete after backend is connected
         navigate ('/playlist') //! Delete after backend is connected
     }
 
