@@ -32,12 +32,16 @@ export function HomePage() {
     }
 
     return (
-        <div className="homePage">
-            <h2>hello, testing</h2>
-            <form onSubmit={handleSubmit}>
+        <div id="homePage">
+             <header id="mainHeader">
+            
+              </header>
+            <form id ="formStyle" onSubmit={handleSubmit}>
+              <h1 id="promptQuestion">What’s Your Vibe? We’ve Got the Music!</h1>
               <input 
+                id="inputStyle"
                 type="text" 
-                placeholder='Insert your current vibe' 
+                // placeholder='Insert your current vibe' 
                 value={userVibe} 
                 onChange={(e) => setUserVibe(e.target.value)}/>
             </form>
