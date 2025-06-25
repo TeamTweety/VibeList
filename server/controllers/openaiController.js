@@ -17,18 +17,27 @@ export const queryOpenAI = async (req, res, next) => {
       };
       return next(error);
     }
-    const completion = await client.chat.completion.create({
+    const completion = await client.responses.create({
       model: 'gpt-4o',
-      messages: [
+      input: [
         {
           role: 'user',
           content: `This is the query given by the user: ${userVibe}. Suggest 30 songs that match the style, energy, and mood.`,
         },
+        {
+          role: 'user',
+          content: '',
+        }
       ],
     });
 
-    const queryResult = completion.choices[0].message.content;
+    console.log('this is the completion ', completion)
+    console.log('this is the completion output text', completion.output_text)
+
+    const queryResult = completion.output_text;
     res.locals.userVibeQuery = queryResult;
+
+    console.log('THIS IS THE UserVibeQuery', queryResult)
 
     return next();
   } catch(err) {

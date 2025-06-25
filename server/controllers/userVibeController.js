@@ -1,5 +1,3 @@
-//import express from 'express';
-
 
 
 export const parseUserVibe = async (req, res, next) => {
@@ -24,4 +22,5 @@ export const parseUserVibe = async (req, res, next) => {
     }
 
     res.locals.userVibe = userVibe;
+    next();
 }

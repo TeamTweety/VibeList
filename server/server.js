@@ -1,6 +1,8 @@
 // Imports
 import express from 'express';
 import 'dotenv/config';
+import { queryOpenAI } from './controllers/openaiController.js';
+import { parseUserVibe } from './controllers/userVibeController.js';
 
 // Server setup
 const PORT = 3000;
@@ -11,7 +13,7 @@ app.use(express.json());
 app.use(express.static('./'));
 
 // Main routes
-app.post('/search', (req, res) => {
+app.post('/search', parseUserVibe, queryOpenAI, (req, res) => {
   res.status(200).send('/search route has been reached');
 });
 
