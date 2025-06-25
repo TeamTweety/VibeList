@@ -6,9 +6,8 @@ import { NavBar } from './NavBar';
 
 export function SecondPage() {
     return (
-        <div>
+        <div className="secondPage">
             <NavBar/>
-            <h2>Second Page</h2>
             <Playlist/>
         </div>
     )
