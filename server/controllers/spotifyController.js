@@ -52,7 +52,7 @@ export async function getSong(req, res, next) {
 
         const data = await response.json();
 
-        const item = data?.tracks?.items?.[0];
+        const item = data.tracks.items[0];
         if (item) {
           searchResults.push({
             track: el.track,
@@ -68,7 +68,14 @@ export async function getSong(req, res, next) {
     res.locals.searchResults = searchResults;
     return next();
   } catch (err) {
-    console.error('Error in getSong middleware:', err);
-    return next(err);
+    // console.error('Error in getSong middleware:', err);
+    return next({
+    log: `No result found for: ${el.track} by ${el.artist}`,
+    status: 500,
+    message: { err: `An error occurred - ${err}` },
+  });
   }
 }
+
+
+
