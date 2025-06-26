@@ -34,45 +34,35 @@ export async function getSong(req, res, next) {
 
   const searchResults = [];
 
-  userVibeQuery.forEach((el) => {
-    const query = new URLSearchParams({
-      q: `track:${el.track}, artist:${el.artist}`,
-      type: 'track',
-      limit: 1,
-      include_external: 'audio',
-    });
-
-    fetch(`https://api.spotify.com/v1/search?${query}`, {
-      method: 'GET',
-      headers: {
-        Authorization: `${spotifyToken.token_type} ${spotifyToken.access_token}`,
-      },
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        // console.log(data.tracks.items[0].id);
-        searchResults.push({
-          track: el.track,
-          artist: el.artist,
-          spotifyID: data.tracks.items[0].id,
+  async function processArray(userVibeQuery) {
+    await Promise.all(
+      userVibeQuery.map(async (el) => {
+        const query = new URLSearchParams({
+          q: `track:${el.track}, artist:${el.artist}`,
+          type: 'track',
+          limit: 1,
+          include_external: 'audio',
         });
-        res.locals.searchResults = searchResults;
-        next();
-      });
-  });
+       await fetch(`https://api.spotify.com/v1/search?${query}`, {
+          method: 'GET',
+          headers: {
+            Authorization: `${spotifyToken.token_type} ${spotifyToken.access_token}`,
+          },
+        })
+          .then((response) => response.json())
+          .then((data) => {
+
+            searchResults.push({
+              track: el.track,
+              artist: el.artist,
+              spotifyID: data.tracks.items[0].id,
+            });
+          });
+        })
+      );
+    }
+    await processArray(userVibeQuery)
+      console.log(searchResults)
+      res.locals.searchResults = searchResults;
+    next()
 }
-
-// [
-//  {
-//     track: 'song name',
-//     artist: 'artist name'
-//  }
-// ]
-
-// [
-//  {
-//     track: 'song name',
-//     artist: 'artist name'
-//     spotify_id: 'id number'
-//  }
-// ]
