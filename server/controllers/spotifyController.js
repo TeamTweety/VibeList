@@ -25,12 +25,9 @@ export async function getToken(req, res, next) {
 }
 
 export async function getSong(req, res, next) {
+  console.log('I AM HERE')
   const { spotifyToken } = res.locals;
-  const userVibeQuery = [
-    { track: 'Weightless', artist: 'Marconi Union' },
-    { track: 'Sunset Lover', artist: 'Petit Biscuit' },
-    { track: 'Holocene', artist: 'Bon Iver' },
-  ];
+  const userVibeQuery = res.locals.userVibeQuery;
 
   const searchResults = [];
 
