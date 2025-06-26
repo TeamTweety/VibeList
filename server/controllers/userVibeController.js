@@ -10,7 +10,7 @@ export const parseUserVibe = async (req, res, next) => {
         return next(error);
     }
 
-    const { userVibe } = req.body;
+    const { userVibe, numOfSongs, currentPlaylist, rejectedSongs } = req.body;
 
     if (typeof userVibe !== 'string') {
         const error = {
@@ -22,5 +22,8 @@ export const parseUserVibe = async (req, res, next) => {
     }
 
     res.locals.userVibe = userVibe;
+    res.locals.numOfSongs = numOfSongs;
+    res.locals.currentPlaylist = currentPlaylist;
+    res.locals.rejectedSongs = rejectedSongs;
     next();
 }
