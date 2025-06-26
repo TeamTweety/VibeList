@@ -8,21 +8,29 @@ const client = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 export const queryOpenAI = async (req, res, next) => {
   try {
     const { userVibe } = res.locals;
-    const { currentPlaylist } = res.locals; // Are these what we are calling them?
-    const { rejectedSongs } = res.locals; //?
-    const { numOfSongs } = res.locals; //?
+    const { currentPlaylist = [] } = res.locals; // Are these what we are calling them?
+    const { rejectedSongs = [] } = res.locals; //?
+    const { numOfSongs = 30 } = res.locals; //?
 
 
-    const userPrompt = `Your job is to recommend songs that match the mood, tone, and energy of the vibe. The current vibe is ${userVibe}.`
-    const example = `[{ "track": "track name", "artist": "artist name" }, { "track": "track name", "artist": "artist name" }]` // do we need more properties?
-    const systemPrompt = ` This is the "Current Playlist": ${currentPlaylist}. 
-                    This is the "Rejected Songs": ${rejectedSongs}.
-                    If you are not provided a Current Playlist OR Rejected Songs, you must recommend exactly 30 song.
-                    If you ARE provided "Current Playlist" and "Rejected Songs", you must recommend exaclty ${numOfSongs} that are not found in "Current Playlist" or "Rejected Songs".
-                    The format of the response should be exactly like this example: ${example}. Do NOT respond with anything else.`
+    const example = `[{ "track": "track name", "artist": "artist name" }, { "track": "track name", "artist": "artist name" }]`
+
+    const systemPrompt = `You are a music recommendation engine. Your task is to return a JSON array of ${numOfSongs} songs.
+                          Each object must contain two properties: "track" and "artist".
+                          
+                          Rules:
+                          -Only return valid JSON.
+                          -Do NOT include any text before or after the JSON.
+                          -If there are songs in the "Current Playlist" and "Rejected Songs", do NOT include songs found in either list into the output.
+                          -Each item must be unique and not appear in either list.
+                          
+                          Current Playlist: ${currentPlaylist}
+                          Rejected Songs: ${rejectedSongs}
+                          
+                          This is the example format: ${example}`
 
     
-                    
+    const userPrompt = `The current vibe is "${userVibe}". Recommend songs that match this mood, tone, and energy.`;
 
     if (!userVibe) {
       const error = {
@@ -32,21 +40,22 @@ export const queryOpenAI = async (req, res, next) => {
       };
       return next(error);
     }
-    const completion = await client.responses.create({
+    const completion = await client.chat.completions.create({
       model: 'gpt-4o',
-      input: [
-        {
-          role: 'user',
-          content: userPrompt,
-        },
+      messages: [
         {
           role: 'system',
           content: systemPrompt,
+        },
+        {
+          role: 'user',
+          content: userPrompt,
         }
       ],
+      temperature: 0.2,
     });
 
-    const queryResult = completion.output_text;
+    const queryResult = completion.choices[0].message.content;
     res.locals.userVibeQuery = JSON.parse(queryResult);
 
     console.log('THIS IS THE UserVibeQuery', JSON.parse(queryResult));

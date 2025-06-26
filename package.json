@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --watch ./server/server.js",
     "dev": "vite",
-    "conc": "concurrently 'vite' 'node --watch ./server/server.js'"
+    "conc": "concurrently 'vite' 'node --watch ./server/server.js'",
+    "build": "vite build"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
     "concurrently": "^9.2.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
     "openai": "^5.7.0",
     "react": "^19.1.0",
