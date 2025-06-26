@@ -21,9 +21,6 @@ export const queryOpenAI = async (req, res, next) => {
                     If you ARE provided "Current Playlist" and "Rejected Songs", you must recommend exaclty ${numOfSongs} that are not found in "Current Playlist" or "Rejected Songs".
                     The format of the response should be exactly like this example: ${example}. Do not respond with anything else.`
 
-    
-                    
-
     if (!userVibe) {
       const error = {
         log: 'OpenAI query middleware did not receive a query',
