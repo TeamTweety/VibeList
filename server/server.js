@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(express.static('./'));
 
 // Main routes
-app.post('/search', parseUserVibe, queryOpenAI, getToken, getSong,(req, res) => {
+app.post('/search', parseUserVibe, queryOpenAI, getToken, getSong, (req, res) => {
   res.status(200).send(res.locals.searchResults);
 });
 
