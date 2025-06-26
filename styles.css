@@ -20,17 +20,21 @@ html, body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url('/background.png');
+  background-image: url('./src/assets/vibelist_background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  position: relative;
 }
 
 #formStyle {
-  background: rgba(5, 20, 128, 0.3); 
-  padding: 5rem;
-  border-radius: 1rem;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  background: rgba(108, 111, 132, 0.3); 
+  padding: 2rem;
+  border-radius: 3rem;
+  box-shadow: 0 4px 20px rgba(56, 49, 49, 0.3);
+  margin-top: 30rem;
+  width: 47rem; 
+  max-width: 80%;
 }
 
 /* Input field */
@@ -39,11 +43,10 @@ html, body {
   font-size: 1.5rem;
   padding: 0.8rem 1rem;
   border: none;
-  border-radius: 0.5rem;
+  border-radius: 3rem;
   outline: none;
   font-style: italic;
   font-family: 'Courier New', Courier, monospace;
-   
 }
 /* #inputStyle::placeholder {
   color: rgb(143, 123, 83);
@@ -51,13 +54,41 @@ html, body {
   font-size: medium;
 } */
 
+#inputStyle.loading {
+  animation: glow 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 5px #1DB954, 0 0 10px #1DB954, 0 0 20px #1DB954;
+  }
+  to {
+    box-shadow: 0 0 10px #1DB954, 0 0 20px #1DB954, 0 0 40px #1DB954;
+  }
+}
+
 #promptQuestion {
-  color: rgb(24, 52, 176); 
-  font-size: 2.4rem;
+  color: rgb(144, 148, 165); 
+  font-size: 1.4rem;
   margin-bottom: 2rem;
   text-align: center;
-  font-family: 'Georgia', serif;
+  font-family: sans-serif;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+.logo-container {
+  position: absolute;
+  top: 30%; 
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+.logo {
+  width: 360px; 
+  height: auto;
+  border-radius: 1rem;  
+  box-shadow: 0 4px 10px rgba(4, 3, 67, 0.4);
+  transition: transform 0.3s ease; 
 }
 
 
