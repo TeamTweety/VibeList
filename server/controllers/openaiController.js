@@ -19,7 +19,7 @@ export const queryOpenAI = async (req, res, next) => {
                     This is the "Rejected Songs": ${rejectedSongs}.
                     If you are not provided a Current Playlist OR Rejected Songs, you must recommend exactly 30 song.
                     If you ARE provided "Current Playlist" and "Rejected Songs", you must recommend exaclty ${numOfSongs} that are not found in "Current Playlist" or "Rejected Songs".
-                    The format of the response should be exactly like this example: ${example}. Do not respond with anything else.`
+                    The format of the response should be exactly like this example: ${example}. DO NOT respond with anything else.`
 
     if (!userVibe) {
       const error = {

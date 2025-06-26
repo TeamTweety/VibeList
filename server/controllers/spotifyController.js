@@ -1,28 +1,65 @@
 import 'dotenv/config';
-import request from 'request';
+import fetch from 'node-fetch';
 
-export function getSong(req, res, next) {
-  const client_id = 'SPOTIFY_CLIENT_ID';
-  const client_secret = 'SPOTIFY_CLIENT_SECRET';
+const client_id = process.env.SPOTIFY_CLIENT_ID;
+const client_secret = process.env.SPOTIFY_CLIENT_SECRET;
 
-  const authOptions = {
-    url: 'https://accounts.spotify.com/api/token',
+export async function getToken(req, res, next) {
+  const authString = Buffer.from(`${client_id}:${client_secret}`).toString(
+    'base64'
+  );
+
+  fetch('https://accounts.spotify.com/api/token', {
+    method: 'POST',
     headers: {
-      Authorization:
-        'Basic ' +
-        new Buffer.from(client_id + ':' + client_secret).toString('base64'),
+      Authorization: `Basic ${authString}`,
+      'Content-Type': 'application/x-www-form-urlencoded',
     },
-    form: {
-      grant_type: 'client_credentials',
-    },
-    json: true,
-  };
-
-  request.post(authOptions, function (error, response, body) {
-    if (!error && response.statusCode === 200) {
-      const token = body.access_token;
-      console.log(token);
-    }
-  });
+    body: new URLSearchParams({ grant_type: 'client_credentials' }),
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      res.locals.spotifyToken = data;
+      next();
+    });
 }
- getSong()
+
+export async function getSong(req, res, next) {
+  console.log('I AM HERE')
+  const { spotifyToken } = res.locals;
+  const userVibeQuery = res.locals.userVibeQuery;
+
+  const searchResults = [];
+
+  async function processArray(userVibeQuery) {
+    await Promise.all(
+      userVibeQuery.map(async (el) => {
+        const query = new URLSearchParams({
+          q: `track:${el.track}, artist:${el.artist}`,
+          type: 'track',
+          limit: 1,
+          include_external: 'audio',
+        });
+       await fetch(`https://api.spotify.com/v1/search?${query}`, {
+          method: 'GET',
+          headers: {
+            Authorization: `${spotifyToken.token_type} ${spotifyToken.access_token}`,
+          },
+        })
+          .then((response) => response.json())
+          .then((data) => {
+
+            searchResults.push({
+              track: el.track,
+              artist: el.artist,
+              spotifyID: data.tracks.items[0].id,
+            });
+          });
+        })
+      );
+    }
+    await processArray(userVibeQuery)
+      console.log(searchResults)
+      res.locals.searchResults = searchResults;
+    next()
+}
