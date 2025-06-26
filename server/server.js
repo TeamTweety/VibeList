@@ -14,7 +14,7 @@ app.use(express.static('./'));
 
 // Main routes
 app.post('/search', parseUserVibe, queryOpenAI, (req, res) => {
-  res.status(200).send('/search route has been reached');
+  res.status(200).send(res.locals.userVibeQuery);
 });
 
 app.post('/refreshPlaylist', (req, res) => {
