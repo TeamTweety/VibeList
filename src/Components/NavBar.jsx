@@ -3,8 +3,8 @@ import { useNavigate, Link } from 'react-router-dom';
 
 export function NavBar() {
     return (
-        <div>
-            <Link to="/">Search for a new Vibe</Link>
+        <div className="navBar">
+            <Link to="/" className="nav-link">Search for a new Vibe</Link>
         </div>
     )
 }
