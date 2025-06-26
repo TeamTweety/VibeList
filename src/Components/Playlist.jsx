@@ -16,24 +16,29 @@ export function Playlist () {
     useEffect(() => { // For controlling the song mapping
         const currentPlaylist = [ //! mockPlaylist. Replace with session stuff after!
             {
-                song: "Bohemian Rhapsody",
-                artist: "Queen"
+                track: "Bohemian Rhapsody",
+                artist: "Queen",
+                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
             },
             {
-                song: "Billie Jean",
-                artist: "Michael Jackson"
+                track: "Billie Jean",
+                artist: "Michael Jackson",
+                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
             },
             {
-                song: "Imagine",
-                artist: "John Lennon"
+                track: "Imagine",
+                artist: "John Lennon",
+                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
             },
             {
-                song: "Smells Like Teen Spirit",
-                artist: "Nirvana"
+                track: "Smells Like Teen Spirit",
+                artist: "Nirvana",
+                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
             },
             {
-                song: "Shape of You",
-                artist: "Ed Sheeran"
+                track: "Shape of You",
+                artist: "Ed Sheeran",
+                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
             }
             ];
 
@@ -41,9 +46,9 @@ export function Playlist () {
     }, [])
     
     return (
-        <div>
+        <div className="playlist">
             {/* Header Div */}
-            <div>
+            <div className="playlist-header">
                 <h3>Current Vibe: {currentVibe}</h3>
             </div>
 
@@ -52,8 +57,10 @@ export function Playlist () {
                 {songs.map((songS, index) => (
                     <Songs
                     key={index}
-                    songname={songS.song}
+                    songname={songS.track}
                     artist={songS.artist}
+                    spotifyID={songS.spotifyID}
+                    index={index}
                     />
                 ))}
             </div>
