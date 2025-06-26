@@ -1,28 +1,78 @@
 import 'dotenv/config';
-import request from 'request';
+import fetch from 'node-fetch';
 
-export function getSong(req, res, next) {
-  const client_id = 'SPOTIFY_CLIENT_ID';
-  const client_secret = 'SPOTIFY_CLIENT_SECRET';
+const client_id = process.env.SPOTIFY_CLIENT_ID;
+const client_secret = process.env.SPOTIFY_CLIENT_SECRET;
 
-  const authOptions = {
-    url: 'https://accounts.spotify.com/api/token',
+export async function getToken(req, res, next) {
+  const authString = Buffer.from(`${client_id}:${client_secret}`).toString(
+    'base64'
+  );
+
+  fetch('https://accounts.spotify.com/api/token', {
+    method: 'POST',
     headers: {
-      Authorization:
-        'Basic ' +
-        new Buffer.from(client_id + ':' + client_secret).toString('base64'),
+      Authorization: `Basic ${authString}`,
+      'Content-Type': 'application/x-www-form-urlencoded',
     },
-    form: {
-      grant_type: 'client_credentials',
-    },
-    json: true,
-  };
+    body: new URLSearchParams({ grant_type: 'client_credentials' }),
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      res.locals.spotifyToken = data;
+      next();
+    });
+}
 
-  request.post(authOptions, function (error, response, body) {
-    if (!error && response.statusCode === 200) {
-      const token = body.access_token;
-      console.log(token);
-    }
+export async function getSong(req, res, next) {
+  const { spotifyToken } = res.locals;
+  const userVibeQuery = [
+    { track: 'Weightless', artist: 'Marconi Union' },
+    { track: 'Sunset Lover', artist: 'Petit Biscuit' },
+    { track: 'Holocene', artist: 'Bon Iver' },
+  ];
+
+  const searchResults = [];
+
+  userVibeQuery.forEach((el) => {
+    const query = new URLSearchParams({
+      q: `track:${el.track}, artist:${el.artist}`,
+      type: 'track',
+      limit: 1,
+      include_external: 'audio',
+    });
+
+    fetch(`https://api.spotify.com/v1/search?${query}`, {
+      method: 'GET',
+      headers: {
+        Authorization: `${spotifyToken.token_type} ${spotifyToken.access_token}`,
+      },
+    })
+      .then((response) => response.json())
+      .then((data) => {
+        // console.log(data.tracks.items[0].id);
+        searchResults.push({
+          track: el.track,
+          artist: el.artist,
+          spotifyID: data.tracks.items[0].id,
+        });
+        res.locals.searchResults = searchResults;
+        next();
+      });
   });
 }
- getSong()
+
+// [
+//  {
+//     track: 'song name',
+//     artist: 'artist name'
+//  }
+// ]
+
+// [
+//  {
+//     track: 'song name',
+//     artist: 'artist name'
+//     spotify_id: 'id number'
+//  }
+// ]

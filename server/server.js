@@ -1,6 +1,7 @@
 // Imports
 import express from 'express';
 import 'dotenv/config';
+import { getSong, getToken } from './controllers/spotifyController.js';
 
 // Server setup
 const PORT = 3000;
@@ -11,8 +12,8 @@ app.use(express.json());
 app.use(express.static('./'));
 
 // Main routes
-app.post('/search', (req, res) => {
-  res.status(200).send('/search route has been reached');
+app.post('/search', getToken, getSong,(req, res) => {
+  res.status(200).send(res.locals.searchResults);
 });
 
 app.post('/refreshPlaylist', (req, res) => {
