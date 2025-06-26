@@ -49,7 +49,7 @@ export function Playlist () {
         <div className="playlist">
             {/* Header Div */}
             <div className="playlist-header">
-                <h3>Current Vibe: {currentVibe}</h3>
+                <h3>Current Vibe: <span className="vibe-text">{currentVibe}</span></h3>
             </div>
 
             {/* Song List Divs */}
