@@ -1,0 +1,154 @@
+/* to make sure our backgrounds fit the whole screen */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Homepage styling */ 
+
+#homePage {
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url('/background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#formStyle {
+  background: rgba(5, 20, 128, 0.3); /* semi-transparent orange */
+  padding: 5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Input field */
+#inputStyle {
+  width: 100%;
+  font-size: 1.5rem;
+  padding: 0.8rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  outline: none;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+   
+}
+/* #inputStyle::placeholder {
+  color: rgb(143, 123, 83);
+  font-style: italic; 
+  font-size: medium;
+} */
+
+#promptQuestion {
+  color: rgb(24, 52, 176); /* or orange, depending on your theme */
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* optional for glow over image */
+}
+
+
+/* Second Page Styling */
+
+.secondPage {
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: rgb(17, 17, 17);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 0rem;
+}
+
+.navBar {
+  position: absolute;
+  top: 2rem;
+  left: 5rem;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link:hover {
+  text-decoration: none;
+  color: #1DB954;
+}
+
+/* Be careful adjusting background color. Set to the same black that the spotify widget is forcing us to be in. Border is spotify green */
+.playlist {
+  background-color: rgb(31, 31, 31);
+  border: 2px solid  #1DB954;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  color: white;
+  position: relative;
+  overflow: scroll;
+}
+
+.playlist-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.playlist-header h3 {
+  font-size: 2.5rem;
+}
+
+.vibe-text {
+  font-style: italic;
+}
+
+.song {
+  gap: 0.75rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.song iframe {
+  width: 240px;
+  height: 80px;
+  flex-shrink: 0;
+}
+
+.botBar {
+  color: white;
+  margin-top: 2rem;
+}
+
+.spotifyPlaylister {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.spotify-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.spotify-button:hover {
+  opacity: 0.8;
+}
