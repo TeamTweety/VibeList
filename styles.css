@@ -122,6 +122,44 @@ html, body {
   color: #1DB954;
 }
 
+.visualizer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 28%;
+    height: 60px;
+    gap: 3px;
+    margin: 1rem 0;
+}
+
+.bar {
+    flex: 1;
+    max-width: 20px;
+    min-width: 4px;
+    height: 10px;
+    background: #1DB954;
+    border-radius: 2px;
+    transition: height 0.1s ease;
+}
+
+.visualizer.active .bar {
+    animation: visualize 0.5s ease-in-out infinite alternate;
+}
+
+.visualizer.active .bar:nth-child(1) { animation-delay: 0s; }
+.visualizer.active .bar:nth-child(2) { animation-delay: 0.1s; }
+.visualizer.active .bar:nth-child(3) { animation-delay: 0.2s; }
+.visualizer.active .bar:nth-child(4) { animation-delay: 0.3s; }
+.visualizer.active .bar:nth-child(5) { animation-delay: 0.4s; }
+.visualizer.active .bar:nth-child(6) { animation-delay: 0.3s; }
+.visualizer.active .bar:nth-child(7) { animation-delay: 0.2s; }
+.visualizer.active .bar:nth-child(8) { animation-delay: 0.1s; }
+
+@keyframes visualize {
+    0% { height: 10px; }
+    100% { height: 50px; }
+}
+
 /* Be careful adjusting background color. Set to the same black that the spotify widget is forcing us to be in. Border is spotify green */
 .playlist {
   background-color: rgb(203, 203, 203);
