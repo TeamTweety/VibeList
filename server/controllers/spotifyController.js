@@ -25,13 +25,12 @@ export async function getToken(req, res, next) {
 }
 
 export async function getSong(req, res, next) {
-  console.log('I AM HERE')
   const { spotifyToken } = res.locals;
-  const userVibeQuery = res.locals.userVibeQuery;
+  const userVibeQuery = res.locals.userVibeQuery || [];
 
   const searchResults = [];
 
-  async function processArray(userVibeQuery) {
+  try {
     await Promise.all(
       userVibeQuery.map(async (el) => {
         const query = new URLSearchParams({
@@ -40,26 +39,36 @@ export async function getSong(req, res, next) {
           limit: 1,
           include_external: 'audio',
         });
-       await fetch(`https://api.spotify.com/v1/search?${query}`, {
-          method: 'GET',
-          headers: {
-            Authorization: `${spotifyToken.token_type} ${spotifyToken.access_token}`,
-          },
-        })
-          .then((response) => response.json())
-          .then((data) => {
 
-            searchResults.push({
-              track: el.track,
-              artist: el.artist,
-              spotifyID: data.tracks.items[0].id,
-            });
+        const response = await fetch(
+          `https://api.spotify.com/v1/search?${query}`,
+          {
+            method: 'GET',
+            headers: {
+              Authorization: `${spotifyToken.token_type} ${spotifyToken.access_token}`,
+            },
+          }
+        );
+
+        const data = await response.json();
+
+        const item = data?.tracks?.items?.[0];
+        if (item) {
+          searchResults.push({
+            track: el.track,
+            artist: el.artist,
+            spotifyID: item.id,
           });
-        })
-      );
-    }
-    await processArray(userVibeQuery)
-      console.log(searchResults)
-      res.locals.searchResults = searchResults;
-    next()
+        } else {
+          console.warn(`No result found for: ${el.track} by ${el.artist}`);
+        }
+      })
+    );
+
+    res.locals.searchResults = searchResults;
+    return next();
+  } catch (err) {
+    console.error('Error in getSong middleware:', err);
+    return next(err);
+  }
 }
