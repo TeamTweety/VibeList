@@ -1,10 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import reloadIcon from '../assets/buttonrefresh.png'
+import reloadIcon from '../assets/refresh_arrow_360.png'
+// import hoverIcon from './assets/refresh_arrow_white_360.png';
 
 export function RefreshPlaylist({refreshList}){
   return (
     <button className="refreshButton" onClick={refreshList}>
       <img src={reloadIcon} alt="Refresh Playlist" className="reload-icon" />
+      
     </button>
   )
 }

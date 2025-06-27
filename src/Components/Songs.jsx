@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 import { SpotifyPlayer } from './SpotifyPlayer';
-import refreshIcon from '../assets/refreshIcon.png';
+import refreshIcon from '../assets/refresh_arrow_360.png';
 
 export function Songs({
   songname,
@@ -45,7 +45,7 @@ export function Songs({
   return (
     <div className='song'>
       <button onClick={() => onRefresh(index)} style={{ cursor: 'pointer' }}>
-        <img src={refreshIcon} alt='Refresh' width='16' height='16' />
+        <img src={refreshIcon} alt='Refresh' width='15' height='15' />
       </button>
       <SpotifyPlayer spotifyID={spotifyID} />
     </div>
