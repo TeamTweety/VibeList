@@ -383,3 +383,37 @@ OpenAI Response:
 
  Response to Client:
 [{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]
+
+Thu Jun 26 2025 20:07:25 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]
+
+---
+
+Thu Jun 26 2025 20:08:02 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]
+
+---
+
+Fri Jun 27 2025 01:09:47 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: beach
+
+OpenAI Response:
+[{"track":"Under the Boardwalk","artist":"The Drifters"},{"track":"Island in the Sun","artist":"Weezer"},{"track":"Kokomo","artist":"The Beach Boys"},{"track":"Riptide","artist":"Vance Joy"},{"track":"Banana Pancakes","artist":"Jack Johnson"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers"},{"track":"Good Vibrations","artist":"The Beach Boys"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole"},{"track":"Toes","artist":"Zac Brown Band"},{"track":"Sun is Shining","artist":"Bob Marley"},{"track":"Ocean Eyes","artist":"Billie Eilish"},{"track":"Cake by the Ocean","artist":"DNCE"},{"track":"Summertime","artist":"DJ Jazzy Jeff & The Fresh Prince"},{"track":"Here Comes the Sun","artist":"The Beatles"},{"track":"Escape (The Pina Colada Song)","artist":"Rupert Holmes"},{"track":"Summer Breeze","artist":"Seals & Crofts"},{"track":"Rockaway Beach","artist":"Ramones"},{"track":"Margaritaville","artist":"Jimmy Buffett"},{"track":"Put It All On Me","artist":"Ed Sheeran"},{"track":"Sunflower","artist":"Post Malone & Swae Lee"},{"track":"Bubbly","artist":"Colbie Caillat"},{"track":"I'm Yours","artist":"Jason Mraz"},{"track":"Watermelon Sugar","artist":"Harry Styles"},{"track":"Send Me On My Way","artist":"Rusted Root"},{"track":"Sitting on the Dock of the Bay","artist":"Otis Redding"},{"track":"Come Away With Me","artist":"Norah Jones"},{"track":"Brighter Than the Sun","artist":"Colbie Caillat"},{"track":"Cool Change","artist":"Little River Band"}]
+
+ Response to Client:
+[{"track":"Banana Pancakes","artist":"Jack Johnson","spotifyID":"451GvHwY99NKV4zdKPRWmv"},{"track":"Kokomo","artist":"The Beach Boys","spotifyID":"5qHYXcVvc9xsFB2uH7GpMN"},{"track":"Toes","artist":"Zac Brown Band","spotifyID":"4S518ci8UY4op0Xyp6Hx6o"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers","spotifyID":"7yFvSYKk3g5g8e7Ffl16ws"},{"track":"Cake by the Ocean","artist":"DNCE","spotifyID":"76hfruVvmfQbw0eYn1nmeC"},{"track":"Sitting on the Dock of the Bay","artist":"Otis Redding","spotifyID":"3zBhihYUHBmGd2bcQIobrF"},{"track":"Under the Boardwalk","artist":"The Drifters","spotifyID":"65jrjEhWfAvysKfnojk1i0"},{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys","spotifyID":"0wz1LjDb9ZNEYwOmDJ3Q4b"},{"track":"Ocean Eyes","artist":"Billie Eilish","spotifyID":"2uIX8YMNjGMD7441kqyyNU"},{"track":"Put It All On Me","artist":"Ed Sheeran","spotifyID":"5T03itPFOPGGkvVPvPiyla"},{"track":"Summer Breeze","artist":"Seals & Crofts","spotifyID":"3B0ms7Xlxl16tRztKHpcu9"},{"track":"Sun is Shining","artist":"Bob Marley","spotifyID":"2pZJhvpin385eqAFRp3ASJ"},{"track":"Good Vibrations","artist":"The Beach Boys","spotifyID":"5t9KYe0Fhd5cW6UYT4qP8f"},{"track":"Send Me On My Way","artist":"Rusted Root","spotifyID":"6XK6Zw6JkFsHXzAcMWNiIr"},{"track":"Rockaway Beach","artist":"Ramones","spotifyID":"2HZGsnMByx3V8KmNW6LqWF"},{"track":"I'm Yours","artist":"Jason Mraz","spotifyID":"3S0OXQeoh0w6AY8WQVckRW"},{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"},{"track":"Summertime","artist":"DJ Jazzy Jeff & The Fresh Prince","spotifyID":"20XdEFyaUR9C7aDIdq2OAd"},{"track":"Here Comes the Sun","artist":"The Beatles","spotifyID":"6dGnYIeXmHdcikdzNNDMm2"},{"track":"Escape (The Pina Colada Song)","artist":"Rupert Holmes","spotifyID":"5IMtdHjJ1OtkxbGe4zfUxQ"},{"track":"Margaritaville","artist":"Jimmy Buffett","spotifyID":"4EEjMyQub6tgFVshlM9j1M"},{"track":"Brighter Than the Sun","artist":"Colbie Caillat","spotifyID":"5YTtTbqxUzJHD3CpbNHerP"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"},{"track":"Bubbly","artist":"Colbie Caillat","spotifyID":"0rFOs9paloAvEtzwDX1Kmc"},{"track":"Cool Change","artist":"Little River Band","spotifyID":"2SEGYVnWImKLUOkU3Qa8sX"},{"track":"Watermelon Sugar","artist":"Harry Styles","spotifyID":"6UelLqGlWMcVH1E5c4H7lY"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole","spotifyID":"25U7raB3ZSszayTYClh4hF"},{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"},{"track":"Come Away With Me","artist":"Norah Jones","spotifyID":"6jGnykaS6TkWp15utXSAeI"}]

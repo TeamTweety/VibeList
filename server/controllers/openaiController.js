@@ -58,7 +58,7 @@ export const queryOpenAI = async (req, res, next) => {
     const queryResult = completion.choices[0].message.content;
     res.locals.userVibeQuery = JSON.parse(queryResult);
 
-    console.log('THIS IS THE UserVibeQuery', JSON.parse(queryResult));
+    // console.log('THIS IS THE UserVibeQuery', JSON.parse(queryResult));
 
     return next();
   } catch(err) {

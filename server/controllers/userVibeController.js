@@ -1,7 +1,6 @@
 
 
 export const parseUserVibe = async (req, res, next) => {
-    console.log('\n\n\n I AM HERE \n\n\n')
     if (!req.body.userVibe) {
         const error = {
             log: 'User vibe not provided',
