@@ -86,8 +86,7 @@ html, body {
 .logo {
   width: 360px; 
   height: auto;
-  border-radius: 1rem;  
-  box-shadow: 0 4px 10px rgba(4, 3, 67, 0.4);
+  border-radius: 1rem; 
   transition: transform 0.3s ease; 
 }
 
@@ -166,7 +165,7 @@ html, body {
   border: 2px solid  #1DB954;
   border-radius: 1rem;
   padding: 1.5rem;
-  color: white;
+  color: rgb(31, 31, 31);
   position: relative;
   overflow: scroll;
 }
@@ -187,6 +186,13 @@ html, body {
   font-style: italic;
 }
 
+.song-list {
+  max-height: 700px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 10px;
+}
+
 .song {
   background-color: rgb(31, 31, 31);
 
@@ -202,7 +208,7 @@ html, body {
 }
 
 .song iframe {
-  width: 240px;
+  width: 45rem;
   height: 80px;
   flex-shrink: 0;
 }

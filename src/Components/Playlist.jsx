@@ -62,7 +62,7 @@ export function Playlist() {
       </div>
 
       {/* Song List Divs */}
-      <div>
+      <div className="song-list">
         {songs.map((songS, index) => (
           <Songs
             key={index}
