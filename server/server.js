@@ -1,7 +1,7 @@
 // Imports
 import express from 'express';
 import 'dotenv/config';
-import { getSong, getToken } from './controllers/spotifyController.js';
+import { createPlaylist, getSong, getToken, getUserID, newTest } from './controllers/spotifyController.js';
 import { parseUserVibe } from './controllers/userVibeController.js';
 import { queryOpenAI } from './controllers/openaiController.js';
 import { logController } from './controllers/logController.js';
@@ -27,6 +27,10 @@ app.post('/refreshSong', parseUserVibe, queryOpenAI, getToken, getSong, logContr
   res.status(200).send(res.locals.searchResults);
 });
 
+app.post('/test', getToken, newTest,(req, res) => {
+  res.status(200).send('test');
+});
+
 // Global error handler
 app.use((err, req, res, next) => {
   const defaultErr = {
@@ -43,3 +47,4 @@ app.use((err, req, res, next) => {
 app.listen(PORT, () =>
   console.log('\n \n 🟢 Server is listening on port 3000\n \n ')
 );
+

@@ -21,11 +21,11 @@ export const queryOpenAI = async (req, res, next) => {
                           Rules:
                           -Only return valid JSON.
                           -Do NOT include any text before or after the JSON.
-                          -If there are songs in the "Current Playlist" and "Rejected Songs", do NOT include songs found in either list into the output.
+                          -Do NOT recommend songs that already exist in the "Current Playlist" or "Rejected Songs".
                           -Each item must be unique and not appear in either list.
                           
-                          Current Playlist: ${currentPlaylist}
-                          Rejected Songs: ${rejectedSongs}
+                          Current Playlist: ${JSON.stringify(currentPlaylist)}
+                          Rejected Songs: ${JSON.stringify(rejectedSongs)}
                           
                           This is the example format: ${example}`
 
@@ -58,7 +58,7 @@ export const queryOpenAI = async (req, res, next) => {
     const queryResult = completion.choices[0].message.content;
     res.locals.userVibeQuery = JSON.parse(queryResult);
 
-    console.log('THIS IS THE UserVibeQuery', JSON.parse(queryResult));
+    // console.log('THIS IS THE UserVibeQuery', JSON.parse(queryResult));
 
     return next();
   } catch(err) {
