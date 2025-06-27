@@ -127,10 +127,19 @@ html, body {
     max-width: 20px;
     min-width: 4px;
     height: 10px;
-    background: #1DB954;
     border-radius: 2px;
     transition: height 0.1s ease;
 }
+
+/* fallback in case color function fails in visualizer */
+.bar-1 { background: var(--bar-color-1, #1DB954); }
+.bar-2 { background: var(--bar-color-2, #1DB954); }
+.bar-3 { background: var(--bar-color-3, #1DB954); }
+.bar-4 { background: var(--bar-color-4, #1DB954); }
+.bar-5 { background: var(--bar-color-5, #1DB954); }
+.bar-6 { background: var(--bar-color-6, #1DB954); }
+.bar-7 { background: var(--bar-color-7, #1DB954); }
+.bar-8 { background: var(--bar-color-8, #1DB954); }
 
 .visualizer.active .bar {
     animation: visualize 0.5s ease-in-out infinite alternate;
@@ -178,7 +187,7 @@ html, body {
 }
 
 .song-list {
-  max-height: 700px;
+  max-height: 50vh;
   overflow-y: auto;
   overflow-x: hidden;
   padding-right: 10px;
