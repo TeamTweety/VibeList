@@ -771,3 +771,148 @@ OpenAI Response:
  Response to Client:
 [{"track":"Before He Cheats","artist":"Carrie Underwood","spotifyID":"0ZUo4YjG4saFnEJhdWp9Bt"}]
 
+
+
+---
+
+Thu Jun 26 2025 22:33:21 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"Blinding Lights","artist":"The Weeknd"},{"track":"Levitating","artist":"Dua Lipa"},{"track":"Watermelon Sugar","artist":"Harry Styles"},{"track":"Don't Start Now","artist":"Dua Lipa"},{"track":"Good 4 U","artist":"Olivia Rodrigo"},{"track":"Peaches","artist":"Justin Bieber"},{"track":"Save Your Tears","artist":"The Weeknd"},{"track":"Bad Guy","artist":"Billie Eilish"},{"track":"Shivers","artist":"Ed Sheeran"},{"track":"As It Was","artist":"Harry Styles"},{"track":"Stay","artist":"The Kid LAROI & Justin Bieber"},{"track":"Break My Heart","artist":"Dua Lipa"},{"track":"Positions","artist":"Ariana Grande"},{"track":"Circles","artist":"Post Malone"},{"track":"Dance Monkey","artist":"Tones and I"},{"track":"Adore You","artist":"Harry Styles"},{"track":"Senorita","artist":"Shawn Mendes & Camila Cabello"},{"track":"Blame It on Me","artist":"George Ezra"},{"track":"Sunflower","artist":"Post Malone & Swae Lee"},{"track":"Memories","artist":"Maroon 5"},{"track":"Mood","artist":"24kGoldn ft. iann dior"},{"track":"I Like Me Better","artist":"Lauv"},{"track":"Sucker","artist":"Jonas Brothers"},{"track":"Havana","artist":"Camila Cabello ft. Young Thug"},{"track":"Shape of You","artist":"Ed Sheeran"},{"track":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars"},{"track":"Roar","artist":"Katy Perry"},{"track":"Shake It Off","artist":"Taylor Swift"},{"track":"Sorry","artist":"Justin Bieber"},{"track":"New Rules","artist":"Dua Lipa"}]
+
+ Response to Client:
+[{"track":"Watermelon Sugar","artist":"Harry Styles","spotifyID":"6UelLqGlWMcVH1E5c4H7lY"},{"track":"Peaches","artist":"Justin Bieber","spotifyID":"4iJyoBOLtHqaGxP12qzhQI"},{"track":"Good 4 U","artist":"Olivia Rodrigo","spotifyID":"4ZtFanR9U6ndgddUvNcjcG"},{"track":"Blinding Lights","artist":"The Weeknd","spotifyID":"0VjIjW4GlUZAMYd2vXMi3b"},{"track":"Bad Guy","artist":"Billie Eilish","spotifyID":"2Fxmhks0bxGSBdJ92vM42m"},{"track":"Levitating","artist":"Dua Lipa","spotifyID":"5nujrmhLynf4yMoMtj8AQF"},{"track":"Don't Start Now","artist":"Dua Lipa","spotifyID":"3PfIrDoz19wz7qK7tYeu62"},{"track":"As It Was","artist":"Harry Styles","spotifyID":"4Dvkj6JhhA12EX05fT7y2e"},{"track":"Shivers","artist":"Ed Sheeran","spotifyID":"50nfwKoDiSYg8zOCREWAm5"},{"track":"Break My Heart","artist":"Dua Lipa","spotifyID":"017PF4Q3l4DBUiWoXk4OWT"},{"track":"Save Your Tears","artist":"The Weeknd","spotifyID":"5QO79kh1waicV47BqGRL3g"},{"track":"Stay","artist":"The Kid LAROI & Justin Bieber","spotifyID":"5HCyWlXZPP0y6Gqq8TgA20"},{"track":"Positions","artist":"Ariana Grande","spotifyID":"35mvY5S1H3J2QZyna3TFe0"},{"track":"Blame It on Me","artist":"George Ezra","spotifyID":"2vzMWO0T008m86yDnXwkII"},{"track":"Dance Monkey","artist":"Tones and I","spotifyID":"2XU0oxnq2qxCpomAAuJY8K"},{"track":"Sucker","artist":"Jonas Brothers","spotifyID":"22vgEDb5hykfaTwLuskFGD"},{"track":"I Like Me Better","artist":"Lauv","spotifyID":"4MagTPnkPiDuIa4P8GtW1b"},{"track":"Shake It Off","artist":"Taylor Swift","spotifyID":"5xTtaWoae3wi06K5WfVUUH"},{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"},{"track":"Circles","artist":"Post Malone","spotifyID":"21jGcNKet2qwijlDFuPiPb"},{"track":"Senorita","artist":"Shawn Mendes & Camila Cabello","spotifyID":"6v3KW9xbzN5yKLt9YKDYA2"},{"track":"Sorry","artist":"Justin Bieber","spotifyID":"09CtPGIpYB4BrO8qb1RGsF"},{"track":"Adore You","artist":"Harry Styles","spotifyID":"3jjujdWJ72nww5eGnfs2E7"},{"track":"Roar","artist":"Katy Perry","spotifyID":"27tNWlhdAryQY04Gb2ZhUI"},{"track":"Memories","artist":"Maroon 5","spotifyID":"4cktbXiXOapiLBMprHFErI"},{"track":"Shape of You","artist":"Ed Sheeran","spotifyID":"7qiZfU4dY1lWllzX7mPBI3"},{"track":"New Rules","artist":"Dua Lipa","spotifyID":"2ekn2ttSfGqwhhate0LSR0"}]
+
+---
+
+Thu Jun 26 2025 22:33:38 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars"}]
+
+ Response to Client:
+[]
+
+---
+
+Thu Jun 26 2025 22:34:03 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"drivers license","artist":"Olivia Rodrigo"}]
+
+ Response to Client:
+[{"track":"drivers license","artist":"Olivia Rodrigo","spotifyID":"5wANPM4fQCJwkGd4rN57mH"}]
+
+---
+
+Thu Jun 26 2025 22:34:12 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"Butter","artist":"BTS"}]
+
+ Response to Client:
+[{"track":"Butter","artist":"BTS","spotifyID":"6jjYDGxVJsWS0a5wlVF5vS"}]
+
+---
+
+Thu Jun 26 2025 22:34:17 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars"}]
+
+ Response to Client:
+[]
+
+---
+
+Thu Jun 26 2025 22:34:24 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"Good as Hell","artist":"Lizzo"}]
+
+ Response to Client:
+[{"track":"Good as Hell","artist":"Lizzo","spotifyID":"6KgBpzTuTRPebChN0VTyzV"}]
+
+---
+
+Thu Jun 26 2025 22:34:55 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: pop
+
+OpenAI Response:
+[{"track":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars"},{"track":"Havana","artist":"Camila Cabello ft. Young Thug"},{"track":"Can't Stop the Feeling!","artist":"Justin Timberlake"},{"track":"Shut Up and Dance","artist":"WALK THE MOON"},{"track":"Call Me Maybe","artist":"Carly Rae Jepsen"},{"track":"Happy","artist":"Pharrell Williams"},{"track":"Party in the USA","artist":"Miley Cyrus"},{"track":"Firework","artist":"Katy Perry"},{"track":"Sorry Not Sorry","artist":"Demi Lovato"},{"track":"Treasure","artist":"Bruno Mars"},{"track":"Shake It Off","artist":"Taylor Swift"},{"track":"Bang Bang","artist":"Jessie J, Ariana Grande, Nicki Minaj"},{"track":"Cheap Thrills","artist":"Sia ft. Sean Paul"},{"track":"Cake by the Ocean","artist":"DNCE"},{"track":"Uptown Girl","artist":"Billy Joel"},{"track":"Wake Me Up","artist":"Avicii"},{"track":"I Gotta Feeling","artist":"The Black Eyed Peas"},{"track":"We Found Love","artist":"Rihanna ft. Calvin Harris"},{"track":"Just Dance","artist":"Lady Gaga ft. Colby O'Donis"},{"track":"Tik Tok","artist":"Kesha"},{"track":"Roar","artist":"Katy Perry"},{"track":"Counting Stars","artist":"OneRepublic"},{"track":"On the Floor","artist":"Jennifer Lopez ft. Pitbull"},{"track":"All About That Bass","artist":"Meghan Trainor"},{"track":"Moves Like Jagger","artist":"Maroon 5 ft. Christina Aguilera"},{"track":"Rude","artist":"MAGIC!"},{"track":"Timber","artist":"Pitbull ft. Kesha"},{"track":"What Makes You Beautiful","artist":"One Direction"},{"track":"Locked Out of Heaven","artist":"Bruno Mars"},{"track":"Love Me Like You Do","artist":"Ellie Goulding"}]
+
+ Response to Client:
+[{"track":"Shut Up and Dance","artist":"WALK THE MOON","spotifyID":"4kbj5MwxO1bq9wjT5g9HaA"},{"track":"Happy","artist":"Pharrell Williams","spotifyID":"60nZcImufyMA1MKQY3dcCH"},{"track":"Call Me Maybe","artist":"Carly Rae Jepsen","spotifyID":"3TGRqZ0a2l1LRblBkJoaDx"},{"track":"Firework","artist":"Katy Perry","spotifyID":"4r6eNCsrZnQWJzzvFh4nlg"},{"track":"Party in the USA","artist":"Miley Cyrus","spotifyID":"5Q0Nhxo0l2bP3pNjpGJwV1"},{"track":"Treasure","artist":"Bruno Mars","spotifyID":"55h7vJchibLdUkxdlX3fK7"},{"track":"Bang Bang","artist":"Jessie J, Ariana Grande, Nicki Minaj","spotifyID":"0puf9yIluy9W0vpMEUoAnN"},{"track":"Can't Stop the Feeling!","artist":"Justin Timberlake","spotifyID":"1WkMMavIMc4JZ8cfMmxHkI"},{"track":"Shake It Off","artist":"Taylor Swift","spotifyID":"5xTtaWoae3wi06K5WfVUUH"},{"track":"Cake by the Ocean","artist":"DNCE","spotifyID":"76hfruVvmfQbw0eYn1nmeC"},{"track":"Sorry Not Sorry","artist":"Demi Lovato","spotifyID":"0yvPEnB032fojLfVluFjUv"},{"track":"Wake Me Up","artist":"Avicii","spotifyID":"0nrRP2bk19rLc0orkWPQk2"},{"track":"Tik Tok","artist":"Kesha","spotifyID":"0HPD5WQqrq7wPWR7P7Dw1i"},{"track":"I Gotta Feeling","artist":"The Black Eyed Peas","spotifyID":"2H1047e0oMSj10dgp7p2VG"},{"track":"Roar","artist":"Katy Perry","spotifyID":"27tNWlhdAryQY04Gb2ZhUI"},{"track":"Uptown Girl","artist":"Billy Joel","spotifyID":"5zA8vzDGqPl2AzZkEYQGKh"},{"track":"Counting Stars","artist":"OneRepublic","spotifyID":"2tpWsVSb9UEmDRxAl1zhX1"},{"track":"Rude","artist":"MAGIC!","spotifyID":"6RtPijgfPKROxEzTHNRiDp"},{"track":"All About That Bass","artist":"Meghan Trainor","spotifyID":"5jE48hhRu8E6zBDPRSkEq7"},{"track":"Locked Out of Heaven","artist":"Bruno Mars","spotifyID":"3w3y8KPTfNeOKPiqUTakBh"},{"track":"Love Me Like You Do","artist":"Ellie Goulding","spotifyID":"3zHq9ouUJQFQRf3cm1rRLu"},{"track":"What Makes You Beautiful","artist":"One Direction","spotifyID":"4cluDES4hQEUhmXj6TXkSo"}]
+
+---
+
+Thu Jun 26 2025 23:13:20 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: gaming
+
+OpenAI Response:
+[{"track":"Scary Monsters and Nice Sprites","artist":"Skrillex"},{"track":"Sandstorm","artist":"Darude"},{"track":"Animals","artist":"Martin Garrix"},{"track":"Wake Me Up","artist":"Avicii"},{"track":"Titanium","artist":"David Guetta ft. Sia"},{"track":"Levels","artist":"Avicii"},{"track":"Bangarang","artist":"Skrillex ft. Sirah"},{"track":"Strobe","artist":"deadmau5"},{"track":"Ghosts 'n' Stuff","artist":"deadmau5 ft. Rob Swire"},{"track":"Clarity","artist":"Zedd ft. Foxes"},{"track":"Don't You Worry Child","artist":"Swedish House Mafia ft. John Martin"},{"track":"Turn Down for What","artist":"DJ Snake & Lil Jon"},{"track":"Get Low","artist":"Dillon Francis & DJ Snake"},{"track":"Tsunami","artist":"DVBBS & Borgeous"},{"track":"Cinema (Skrillex Remix)","artist":"Benny Benassi ft. Gary Go"},{"track":"The Middle","artist":"Zedd, Maren Morris, Grey"},{"track":"Stay","artist":"Zedd & Alessia Cara"},{"track":"Faded","artist":"Alan Walker"},{"track":"Alone","artist":"Marshmello"},{"track":"Silence","artist":"Marshmello ft. Khalid"},{"track":"Believer","artist":"Imagine Dragons"},{"track":"Radioactive","artist":"Imagine Dragons"},{"track":"Legends Never Die","artist":"Against The Current"},{"track":"Warriors","artist":"Imagine Dragons"},{"track":"Centuries","artist":"Fall Out Boy"},{"track":"Immortals","artist":"Fall Out Boy"},{"track":"The Nights","artist":"Avicii"},{"track":"On Top of the World","artist":"Imagine Dragons"},{"track":"Pompeii","artist":"Bastille"},{"track":"Riptide","artist":"Vance Joy"}]
+
+ Response to Client:
+[{"track":"Sandstorm","artist":"Darude","spotifyID":"3dxDj8pDPlIHCIrUPXuCeG"},{"track":"Scary Monsters and Nice Sprites","artist":"Skrillex","spotifyID":"4rwpZEcnalkuhPyGkEdhu0"},{"track":"Wake Me Up","artist":"Avicii","spotifyID":"0nrRP2bk19rLc0orkWPQk2"},{"track":"Animals","artist":"Martin Garrix","spotifyID":"0A9mHc7oYUoCECqByV8cQR"},{"track":"Levels","artist":"Avicii","spotifyID":"5UqCQaDshqbIk3pkhy4Pjg"},{"track":"Strobe","artist":"deadmau5","spotifyID":"7IQDEmE7TaADP1EmlPxv3T"},{"track":"Turn Down for What","artist":"DJ Snake & Lil Jon","spotifyID":"67awxiNHNyjMXhVgsHuIrs"},{"track":"Tsunami","artist":"DVBBS & Borgeous","spotifyID":"0vZCG0H9KhtU7K8MEUVAoV"},{"track":"Get Low","artist":"Dillon Francis & DJ Snake","spotifyID":"3oZoXyU0SkDldgS7AcN4y4"},{"track":"The Middle","artist":"Zedd, Maren Morris, Grey","spotifyID":"09IStsImFySgyp0pIQdqAc"},{"track":"Faded","artist":"Alan Walker","spotifyID":"698ItKASDavgwZ3WjaWjtz"},{"track":"Alone","artist":"Marshmello","spotifyID":"3MEYFivt6bilQ9q9mFWZ4g"},{"track":"Radioactive","artist":"Imagine Dragons","spotifyID":"4G8gkOterJn0Ywt6uhqbhp"},{"track":"Warriors","artist":"Imagine Dragons","spotifyID":"1lgN0A2Vki2FTON5PYq42m"},{"track":"Believer","artist":"Imagine Dragons","spotifyID":"0pqnGHJpmpxLKifKRmU6WP"},{"track":"Stay","artist":"Zedd & Alessia Cara","spotifyID":"6uBhi9gBXWjanegOb2Phh0"},{"track":"Legends Never Die","artist":"Against The Current","spotifyID":"1FpVJ7HpZInE2GvhVE2TwT"},{"track":"Centuries","artist":"Fall Out Boy","spotifyID":"04aAxqtGp5pv12UXAg4pkq"},{"track":"Immortals","artist":"Fall Out Boy","spotifyID":"3Te8uLyit6X3ncNW8Fp3K2"},{"track":"The Nights","artist":"Avicii","spotifyID":"0ct6r3EGTcMLPtrXHDvVjc"},{"track":"On Top of the World","artist":"Imagine Dragons","spotifyID":"6KuHjfXHkfnIjdmcIvt9r0"},{"track":"Pompeii","artist":"Bastille","spotifyID":"3gbBpTdY8lnQwqxNCcf795"},{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"}]
+
+---
+
+Thu Jun 26 2025 23:15:44 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: gaming
+
+OpenAI Response:
+[{"track":"Scary Monsters and Nice Sprites","artist":"Skrillex"},{"track":"Sandstorm","artist":"Darude"},{"track":"Animals","artist":"Martin Garrix"},{"track":"Titanium","artist":"David Guetta ft. Sia"},{"track":"Bangarang","artist":"Skrillex ft. Sirah"},{"track":"Levels","artist":"Avicii"},{"track":"Strobe","artist":"deadmau5"},{"track":"Ghosts 'n' Stuff","artist":"deadmau5 ft. Rob Swire"},{"track":"Clarity","artist":"Zedd ft. Foxes"},{"track":"Wake Me Up","artist":"Avicii"},{"track":"Turn Down for What","artist":"DJ Snake & Lil Jon"},{"track":"Don't Let Me Down","artist":"The Chainsmokers ft. Daya"},{"track":"Get Low","artist":"Dillon Francis & DJ Snake"},{"track":"Tsunami","artist":"DVBBS & Borgeous"},{"track":"Stay","artist":"Zedd & Alessia Cara"},{"track":"Roses","artist":"The Chainsmokers ft. ROZES"},{"track":"Faded","artist":"Alan Walker"},{"track":"Alone","artist":"Marshmello"},{"track":"Lean On","artist":"Major Lazer & DJ Snake ft. MØ"},{"track":"This Is What You Came For","artist":"Calvin Harris ft. Rihanna"},{"track":"Starboy","artist":"The Weeknd ft. Daft Punk"},{"track":"Closer","artist":"The Chainsmokers ft. Halsey"},{"track":"Light It Up","artist":"Major Lazer ft. Nyla & Fuse ODG"},{"track":"In the Name of Love","artist":"Martin Garrix & Bebe Rexha"},{"track":"Cold Water","artist":"Major Lazer ft. Justin Bieber & MØ"},{"track":"Where Are Ü Now","artist":"Skrillex & Diplo ft. Justin Bieber"},{"track":"Silence","artist":"Marshmello ft. Khalid"},{"track":"The Middle","artist":"Zedd, Maren Morris & Grey"},{"track":"Sweet Nothing","artist":"Calvin Harris ft. Florence Welch"},{"track":"I Took a Pill in Ibiza (Seeb Remix)","artist":"Mike Posner"}]
+
+ Response to Client:
+[{"track":"Sandstorm","artist":"Darude","spotifyID":"3dxDj8pDPlIHCIrUPXuCeG"},{"track":"Animals","artist":"Martin Garrix","spotifyID":"0A9mHc7oYUoCECqByV8cQR"},{"track":"Levels","artist":"Avicii","spotifyID":"5UqCQaDshqbIk3pkhy4Pjg"},{"track":"Strobe","artist":"deadmau5","spotifyID":"7IQDEmE7TaADP1EmlPxv3T"},{"track":"Scary Monsters and Nice Sprites","artist":"Skrillex","spotifyID":"4rwpZEcnalkuhPyGkEdhu0"},{"track":"Wake Me Up","artist":"Avicii","spotifyID":"0nrRP2bk19rLc0orkWPQk2"},{"track":"Don't Let Me Down","artist":"The Chainsmokers ft. Daya","spotifyID":"3QYuMpZsC66nwO1tf0jNLw"},{"track":"Turn Down for What","artist":"DJ Snake & Lil Jon","spotifyID":"67awxiNHNyjMXhVgsHuIrs"},{"track":"Tsunami","artist":"DVBBS & Borgeous","spotifyID":"0vZCG0H9KhtU7K8MEUVAoV"},{"track":"Stay","artist":"Zedd & Alessia Cara","spotifyID":"6uBhi9gBXWjanegOb2Phh0"},{"track":"Get Low","artist":"Dillon Francis & DJ Snake","spotifyID":"3oZoXyU0SkDldgS7AcN4y4"},{"track":"Faded","artist":"Alan Walker","spotifyID":"698ItKASDavgwZ3WjaWjtz"},{"track":"Alone","artist":"Marshmello","spotifyID":"3MEYFivt6bilQ9q9mFWZ4g"},{"track":"Roses","artist":"The Chainsmokers ft. ROZES","spotifyID":"4IcA3RQn5pEFm1xXOq7gCt"},{"track":"This Is What You Came For","artist":"Calvin Harris ft. Rihanna","spotifyID":"6FTfZll2C48Mps8asFT1xk"},{"track":"Lean On","artist":"Major Lazer & DJ Snake ft. MØ","spotifyID":"1Mq9FNQze8FEAvz6q8CDZt"},{"track":"Closer","artist":"The Chainsmokers ft. Halsey","spotifyID":"15i07hah64WMAVWte3j5QU"},{"track":"In the Name of Love","artist":"Martin Garrix & Bebe Rexha","spotifyID":"23L5CiUhw2jV1OIMwthR3S"},{"track":"I Took a Pill in Ibiza (Seeb Remix)","artist":"Mike Posner","spotifyID":"0vbtURX4qv1l7besfwmnD8"},{"track":"The Middle","artist":"Zedd, Maren Morris & Grey","spotifyID":"09IStsImFySgyp0pIQdqAc"}]
+
+---
+
+Thu Jun 26 2025 23:16:05 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: gaming
+
+OpenAI Response:
+[{"track":"Glide","artist":"Stephen Walking"},{"track":"Unity","artist":"TheFatRat"},{"track":"Crab Rave","artist":"Noisestorm"},{"track":"Monody","artist":"TheFatRat ft. Laura Brehm"},{"track":"Flight","artist":"Tristam & Braken"},{"track":"Surface","artist":"Aero Chord"},{"track":"Invincible","artist":"DEAF KEV"},{"track":"Fade","artist":"Alan Walker"},{"track":"Sky High","artist":"Elektronomia"},{"track":"Spectre","artist":"Alan Walker"},{"track":"Heroes Tonight","artist":"Janji ft. Johnning"},{"track":"Savannah","artist":"Diviners ft. Philly K"},{"track":"Cloud 9","artist":"Tobu"},{"track":"Mortals","artist":"Warriyo ft. Laura Brehm"},{"track":"Symbolism","artist":"Electro-Light"},{"track":"Skyline","artist":"Kovan & Electro-Light"},{"track":"Energy","artist":"Elektronomia"},{"track":"Feel Good","artist":"Syn Cole"},{"track":"Invincible","artist":"NCS Release"},{"track":"Time Lapse","artist":"TheFatRat"},{"track":"Sunburst","artist":"Tobu & Itro"},{"track":"Candyland","artist":"Tobu"},{"track":"Dreams","artist":"Lost Sky"},{"track":"Superhero","artist":"Unknown Brain ft. Chris Linton"},{"track":"On & On","artist":"Cartoon ft. Daniel Levi"},{"track":"Invincible","artist":"DEAF KEV"},{"track":"Blank","artist":"Disfigure"},{"track":"High","artist":"JPB"},{"track":"Firefly","artist":"Jim Yosef"},{"track":"Safe & Sound","artist":"Different Heaven"}]
+
+ Response to Client:
+[{"track":"Crab Rave","artist":"Noisestorm","spotifyID":"4qDHt2ClApBBzDAvhNGWFd"},{"track":"Glide","artist":"Stephen Walking","spotifyID":"7F0DDqZ6SdIUEMuo8eRlmv"},{"track":"Surface","artist":"Aero Chord","spotifyID":"63bR379dNknfAws2hBBsq7"},{"track":"Unity","artist":"TheFatRat","spotifyID":"2FpEXjGqe2dJJ9oB8c8Io2"},{"track":"Flight","artist":"Tristam & Braken","spotifyID":"4Uhty1kvytzqhwoLO2CVoi"},{"track":"Fade","artist":"Alan Walker","spotifyID":"698ItKASDavgwZ3WjaWjtz"},{"track":"Invincible","artist":"DEAF KEV","spotifyID":"5KcKUpTEHMfcoAps9d5BvY"},{"track":"Sky High","artist":"Elektronomia","spotifyID":"61k7xAKMsuvTf2j2YnieSi"},{"track":"Spectre","artist":"Alan Walker","spotifyID":"2DGa7iaidT5s0qnINlwMjJ"},{"track":"Cloud 9","artist":"Tobu","spotifyID":"3pqfx1XOcuFZDeKOwfOky7"},{"track":"Skyline","artist":"Kovan & Electro-Light","spotifyID":"5f4zXdIiSBLQXIaAx9xV9T"},{"track":"Feel Good","artist":"Syn Cole","spotifyID":"0dkV8DuMfWAVhfi3iMnIX3"},{"track":"Energy","artist":"Elektronomia","spotifyID":"2bhx2BP0pmsPSQ11dMnE5H"},{"track":"Symbolism","artist":"Electro-Light","spotifyID":"2RQWB4Asy1rjZL4IUcJ7kn"},{"track":"Time Lapse","artist":"TheFatRat","spotifyID":"4Do4JWdvKWwIAuR0e931Zb"},{"track":"Candyland","artist":"Tobu","spotifyID":"0euyZh7zSUmpNXVpVBdcN2"},{"track":"Dreams","artist":"Lost Sky","spotifyID":"0nOkwnX9Vv34M2dO2mCZ66"},{"track":"Sunburst","artist":"Tobu & Itro","spotifyID":"5NcYCtoBkAGyxL5SCF64av"},{"track":"Invincible","artist":"DEAF KEV","spotifyID":"5KcKUpTEHMfcoAps9d5BvY"},{"track":"High","artist":"JPB","spotifyID":"6x27dffcIjwex7ARnjtYpc"},{"track":"Blank","artist":"Disfigure","spotifyID":"7ucAyhKPjKsLrP14q4mcyo"},{"track":"Safe & Sound","artist":"Different Heaven","spotifyID":"4CkyxWtYZZxNsbdYxnh4Ft"},{"track":"Firefly","artist":"Jim Yosef","spotifyID":"1YB2NnK2KrK9PdrJ0czdDB"}]
+
+---
+
+Thu Jun 26 2025 23:18:30 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: gaming
+
+OpenAI Response:
+[{"track":"Legends Never Die","artist":"Against The Current"}]
+
+ Response to Client:
+[{"track":"Legends Never Die","artist":"Against The Current","spotifyID":"1FpVJ7HpZInE2GvhVE2TwT"}]
+
+---
+
+Thu Jun 26 2025 23:41:32 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: cool
+
+OpenAI Response:
+[{"track":"Electric Feel","artist":"MGMT"},{"track":"Taro","artist":"alt-J"},{"track":"R U Mine?","artist":"Arctic Monkeys"},{"track":"Redbone","artist":"Childish Gambino"},{"track":"The Less I Know The Better","artist":"Tame Impala"},{"track":"Breezeblocks","artist":"alt-J"},{"track":"Do I Wanna Know?","artist":"Arctic Monkeys"},{"track":"Feels Like We Only Go Backwards","artist":"Tame Impala"},{"track":"Come Together","artist":"The Beatles"},{"track":"Ain't No Sunshine","artist":"Bill Withers"},{"track":"Summertime","artist":"Ella Fitzgerald"},{"track":"Smooth Operator","artist":"Sade"},{"track":"Dreams","artist":"Fleetwood Mac"},{"track":"Cigarette Daydreams","artist":"Cage The Elephant"},{"track":"Under the Bridge","artist":"Red Hot Chili Peppers"},{"track":"Lazy Eye","artist":"Silversun Pickups"},{"track":"Young Folks","artist":"Peter Bjorn and John"},{"track":"Take Five","artist":"Dave Brubeck"},{"track":"Ain't Nobody","artist":"Chaka Khan"},{"track":"Sultans of Swing","artist":"Dire Straits"},{"track":"Reptilia","artist":"The Strokes"},{"track":"Time to Pretend","artist":"MGMT"},{"track":"Flashing Lights","artist":"Kanye West"},{"track":"Royals","artist":"Lorde"},{"track":"Electric Relaxation","artist":"A Tribe Called Quest"},{"track":"Pumped Up Kicks","artist":"Foster The People"},{"track":"Superstition","artist":"Stevie Wonder"},{"track":"The Way You Make Me Feel","artist":"Michael Jackson"},{"track":"Ain't No Mountain High Enough","artist":"Marvin Gaye & Tammi Terrell"},{"track":"Valerie","artist":"Amy Winehouse"}]
+
+ Response to Client:
+[{"track":"Electric Feel","artist":"MGMT","spotifyID":"3FtYbEfBqAlGO46NUDQSAt"},{"track":"Breezeblocks","artist":"alt-J","spotifyID":"3n69hLUdIsSa1WlRmjMZlW"},{"track":"The Less I Know The Better","artist":"Tame Impala","spotifyID":"6K4t31amVTZDgR3sKmwUJJ"},{"track":"Taro","artist":"alt-J","spotifyID":"4tmwiN9YU7xMjh2hoqcVuI"},{"track":"Redbone","artist":"Childish Gambino","spotifyID":"3vQ4T78TTMOjQXGfXVKQJo"},{"track":"Do I Wanna Know?","artist":"Arctic Monkeys","spotifyID":"5FVd6KXrgO9B3JPmC8OPst"},{"track":"Feels Like We Only Go Backwards","artist":"Tame Impala","spotifyID":"0LtOwyZoSNZKJWHqjzADpW"},{"track":"R U Mine?","artist":"Arctic Monkeys","spotifyID":"2AT8iROs4FQueDv2c8q2KE"},{"track":"Come Together","artist":"The Beatles","spotifyID":"2EqlS6tkEnglzr7tkKAAYD"},{"track":"Smooth Operator","artist":"Sade","spotifyID":"1Hv1VTm8zeOeybub15mA2R"},{"track":"Ain't No Sunshine","artist":"Bill Withers","spotifyID":"1k1Bqnv2R0uJXQN4u6LKYt"},{"track":"Summertime","artist":"Ella Fitzgerald","spotifyID":"2gNjmvuQiEd2z9SqyYi8HH"},{"track":"Cigarette Daydreams","artist":"Cage The Elephant","spotifyID":"2tznHmp70DxMyr2XhWLOW0"},{"track":"Dreams","artist":"Fleetwood Mac","spotifyID":"0ofHAoxe9vBkTCp2UQIavz"},{"track":"Under the Bridge","artist":"Red Hot Chili Peppers","spotifyID":"3d9DChrdc6BOeFsbrZ3Is0"},{"track":"Lazy Eye","artist":"Silversun Pickups","spotifyID":"1aDLUzCyYpRXgrjwUWzV2X"},{"track":"Take Five","artist":"Dave Brubeck","spotifyID":"1YQWosTIljIvxAgHWTp7KP"},{"track":"Sultans of Swing","artist":"Dire Straits","spotifyID":"6cr6UDpkjEaMQ80OjWqEBQ"},{"track":"Young Folks","artist":"Peter Bjorn and John","spotifyID":"4dyx5SzxPPaD8xQIid5Wjj"},{"track":"Time to Pretend","artist":"MGMT","spotifyID":"4iG2gAwKXsOcijVaVXzRPW"},{"track":"Pumped Up Kicks","artist":"Foster The People","spotifyID":"7w87IxuO7BDcJ3YUqCyMTT"},{"track":"Reptilia","artist":"The Strokes","spotifyID":"57Xjny5yNzAcsxnusKmAfA"},{"track":"Flashing Lights","artist":"Kanye West","spotifyID":"5TRPicyLGbAF2LGBFbHGvO"},{"track":"Royals","artist":"Lorde","spotifyID":"2dLLR6qlu5UJ5gk0dKz0h3"},{"track":"Ain't Nobody","artist":"Chaka Khan","spotifyID":"53Za5vyGc1x7GxgJVRjRKc"},{"track":"Valerie","artist":"Amy Winehouse","spotifyID":"6kopmMZiyLmw7h66uXcXR7"},{"track":"Superstition","artist":"Stevie Wonder","spotifyID":"1h2xVEoJORqrg71HocgqXd"},{"track":"Ain't No Mountain High Enough","artist":"Marvin Gaye & Tammi Terrell","spotifyID":"7tqhbajSfrz2F7E1Z75ASX"},{"track":"Electric Relaxation","artist":"A Tribe Called Quest","spotifyID":"0eEXcw3JLVXcRxYrVYMy68"},{"track":"The Way You Make Me Feel","artist":"Michael Jackson","spotifyID":"76HKOVWqsEg26SECtmw7Rz"}]

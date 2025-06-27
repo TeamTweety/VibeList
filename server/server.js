@@ -27,8 +27,10 @@ app.post('/refreshSong', parseUserVibe, queryOpenAI, getToken, getSong, logContr
   res.status(200).send(res.locals.searchResults);
 });
 
-app.post('/test', getToken, newTest,(req, res) => {
-  res.status(200).send('test');
+app.post('/test', getToken, newTest, (req, res) => {
+  res.status(200).json({
+    playlistURI: res.locals.playlistURI,
+  });
 });
 
 // Global error handler

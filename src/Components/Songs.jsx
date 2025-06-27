@@ -47,8 +47,6 @@ export function Songs({
       <button onClick={() => onRefresh(index)} style={{ cursor: 'pointer' }}>
         <img src={refreshIcon} alt='Refresh' width='16' height='16' />
       </button>
-      <h4>{songname}</h4>
-      <p>by {artist}</p>
       <SpotifyPlayer spotifyID={spotifyID} />
     </div>
   );

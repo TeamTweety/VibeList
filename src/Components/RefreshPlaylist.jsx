@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import reloadIcon from '/Users/cateprofir/Desktop/codesmith/VibeList/src/assets/buttonrefresh.png'
+import reloadIcon from '../assets/buttonrefresh.png'
 
 export function RefreshPlaylist({refreshList}){
   return (
