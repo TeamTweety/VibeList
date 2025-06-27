@@ -29,34 +29,7 @@ export function Playlist () {
     }, [rejectedSongs])
 
     useEffect(() => { // For controlling the song mapping
-        const currentPlaylist = [ //! mockPlaylist. Replace with session stuff after!
-            {
-                track: "Bohemian Rhapsody",
-                artist: "Queen",
-                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
-            },
-            {
-                track: "Billie Jean",
-                artist: "Michael Jackson",
-                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
-            },
-            {
-                track: "Imagine",
-                artist: "John Lennon",
-                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
-            },
-            {
-                track: "Smells Like Teen Spirit",
-                artist: "Nirvana",
-                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
-            },
-            {
-                track: "Shape of You",
-                artist: "Ed Sheeran",
-                spotifyID: "7tFiyTwD0nx5a1eklYtX2J"
-            }
-            ];
-            // const currentPlaylist = JSON.parse(sessionStorage.getItem('currentPlaylist')) //! Comment in when we get backend working!
+        const currentPlaylist = JSON.parse(sessionStorage.getItem('currentPlaylist')) //! Comment in when we get backend working!
             setSongs(currentPlaylist);
     }, []);
 
