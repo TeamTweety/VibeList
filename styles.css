@@ -227,3 +227,25 @@ html, body {
 .spotify-button:hover {
   opacity: 0.8;
 }
+
+.refreshButton {
+  background: none;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease;
+  margin-left: auto;
+}
+
+.reload-icon {
+  width: 70px;         
+  height: 70px;
+  
+}
+
+.refreshButton:hover .reload-icon {
+  transform: rotate(90deg);  
+}

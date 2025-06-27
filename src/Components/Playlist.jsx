@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 
 import { Songs } from './Songs';
+import { RefreshPlaylist } from './RefreshPlaylist';
 // import { RefreshPlaylist } from './RefreshPlaylist';
 
 export function Playlist() {
@@ -52,9 +53,37 @@ export function Playlist() {
     setSongs(newSongs);
   };
 
+  async function handleRefresh() {
+  const userVibe = sessionStorage.getItem('userVibe');
+  const currentPlaylist = sessionStorage.getItem('currentPlaylist')
+  const rejectedSongs = sessionStorage.getItem('rejectedSongs')
+
+  try {
+    const response = await fetch('/refreshPlaylist', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        userVibe, currentPlaylist, rejectedSongs
+      }),
+    });
+
+    const data = await response.json();
+
+    if (data) {
+      setSongs(data);
+      
+    }
+  } catch (err) {
+    console.error('Error refreshing playlist:', err);
+  }
+}
+
   return (
     <div className='playlist'>
       {/* Header Div */}
+      <RefreshPlaylist refreshList={handleRefresh} />
       <div className='playlist-header'>
         <h3>
           Current Vibe: <span className='vibe-text'>{currentVibe}</span>
