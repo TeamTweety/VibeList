@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import reloadIcon from '/Users/cateprofir/Desktop/codesmith/VibeList/src/assets/buttonrefresh.png'
+
 export function RefreshPlaylist({refreshList}){
   return (
     <button className="refreshButton" onClick={refreshList}>
-      New Playlist
+      <img src={reloadIcon} alt="Refresh Playlist" className="reload-icon" />
     </button>
   )
 }
