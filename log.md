@@ -126,4 +126,260 @@ OpenAI Response:
 [{"track":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars"}]
 
  Response to Client:
-[]
+[]Thu Jun 26 2025 19:24:58 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Under the Boardwalk","artist":"The Drifters"},{"track":"Kokomo","artist":"The Beach Boys"},{"track":"Riptide","artist":"Vance Joy"},{"track":"Island in the Sun","artist":"Weezer"},{"track":"Banana Pancakes","artist":"Jack Johnson"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys"},{"track":"Toes","artist":"Zac Brown Band"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers"},{"track":"Good Vibrations","artist":"The Beach Boys"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole"},{"track":"Ocean Eyes","artist":"Billie Eilish"},{"track":"Cake by the Ocean","artist":"DNCE"},{"track":"Here Comes the Sun","artist":"The Beatles"},{"track":"Summer Breeze","artist":"Seals & Crofts"},{"track":"Sunflower","artist":"Post Malone & Swae Lee"},{"track":"Watermelon Sugar","artist":"Harry Styles"},{"track":"Come Away With Me","artist":"Norah Jones"},{"track":"Bubbly","artist":"Colbie Caillat"},{"track":"Put It All on Me","artist":"Ed Sheeran"},{"track":"Sunset Lover","artist":"Petit Biscuit"},{"track":"Malibu","artist":"Miley Cyrus"},{"track":"Young Folks","artist":"Peter Bjorn and John"},{"track":"Budapest","artist":"George Ezra"},{"track":"Electric Feel","artist":"MGMT"},{"track":"Send Me On My Way","artist":"Rusted Root"},{"track":"Sweater Weather","artist":"The Neighbourhood"},{"track":"Sun is Shining","artist":"Bob Marley"},{"track":"Dreams","artist":"Fleetwood Mac"},{"track":"Stolen Dance","artist":"Milky Chance"}]
+
+ Response to Client:
+[{"track":"Banana Pancakes","artist":"Jack Johnson","spotifyID":"451GvHwY99NKV4zdKPRWmv"},{"track":"Good Vibrations","artist":"The Beach Boys","spotifyID":"5t9KYe0Fhd5cW6UYT4qP8f"},{"track":"Kokomo","artist":"The Beach Boys","spotifyID":"5qHYXcVvc9xsFB2uH7GpMN"},{"track":"Put It All on Me","artist":"Ed Sheeran","spotifyID":"5T03itPFOPGGkvVPvPiyla"},{"track":"Come Away With Me","artist":"Norah Jones","spotifyID":"6jGnykaS6TkWp15utXSAeI"},{"track":"Under the Boardwalk","artist":"The Drifters","spotifyID":"65jrjEhWfAvysKfnojk1i0"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole","spotifyID":"25U7raB3ZSszayTYClh4hF"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"},{"track":"Summer Breeze","artist":"Seals & Crofts","spotifyID":"3B0ms7Xlxl16tRztKHpcu9"},{"track":"Bubbly","artist":"Colbie Caillat","spotifyID":"0rFOs9paloAvEtzwDX1Kmc"},{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers","spotifyID":"7yFvSYKk3g5g8e7Ffl16ws"},{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"},{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"},{"track":"Electric Feel","artist":"MGMT","spotifyID":"3FtYbEfBqAlGO46NUDQSAt"},{"track":"Ocean Eyes","artist":"Billie Eilish","spotifyID":"2uIX8YMNjGMD7441kqyyNU"},{"track":"Toes","artist":"Zac Brown Band","spotifyID":"4S518ci8UY4op0Xyp6Hx6o"},{"track":"Sweater Weather","artist":"The Neighbourhood","spotifyID":"2QjOHCTQ1Jl3zawyYOpxh6"},{"track":"Watermelon Sugar","artist":"Harry Styles","spotifyID":"6UelLqGlWMcVH1E5c4H7lY"},{"track":"Cake by the Ocean","artist":"DNCE","spotifyID":"76hfruVvmfQbw0eYn1nmeC"},{"track":"Send Me On My Way","artist":"Rusted Root","spotifyID":"6XK6Zw6JkFsHXzAcMWNiIr"},{"track":"Stolen Dance","artist":"Milky Chance","spotifyID":"0ZfByLXCeKchuj7zi1CJ0S"},{"track":"Here Comes the Sun","artist":"The Beatles","spotifyID":"6dGnYIeXmHdcikdzNNDMm2"},{"track":"Malibu","artist":"Miley Cyrus","spotifyID":"1UZOjK1BwmwWU14Erba9CZ"},{"track":"Young Folks","artist":"Peter Bjorn and John","spotifyID":"4dyx5SzxPPaD8xQIid5Wjj"},{"track":"Sun is Shining","artist":"Bob Marley","spotifyID":"2pZJhvpin385eqAFRp3ASJ"},{"track":"Budapest","artist":"George Ezra","spotifyID":"2ixsaeFioXJmMgkkbd4uj1"},{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"},{"track":"Dreams","artist":"Fleetwood Mac","spotifyID":"0ofHAoxe9vBkTCp2UQIavz"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys","spotifyID":"0wz1LjDb9ZNEYwOmDJ3Q4b"}]Thu Jun 26 2025 19:25:06 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Riptide","artist":"Vance Joy"}]
+
+ Response to Client:
+[{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"}]Thu Jun 26 2025 19:27:59 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Under the Boardwalk","artist":"The Drifters"},{"track":"Kokomo","artist":"The Beach Boys"},{"track":"Island in the Sun","artist":"Weezer"},{"track":"Riptide","artist":"Vance Joy"},{"track":"Banana Pancakes","artist":"Jack Johnson"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers"},{"track":"Good Vibrations","artist":"The Beach Boys"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole"},{"track":"Toes","artist":"Zac Brown Band"},{"track":"Santeria","artist":"Sublime"},{"track":"Bubbly","artist":"Colbie Caillat"},{"track":"Ocean Eyes","artist":"Billie Eilish"},{"track":"Put It All on Me","artist":"Ed Sheeran"},{"track":"Sunflower","artist":"Post Malone & Swae Lee"},{"track":"Cake by the Ocean","artist":"DNCE"},{"track":"Malibu","artist":"Miley Cyrus"},{"track":"Summer Breeze","artist":"Seals & Crofts"},{"track":"Come Away With Me","artist":"Norah Jones"},{"track":"Watermelon Sugar","artist":"Harry Styles"},{"track":"Doin' Time","artist":"Lana Del Rey"},{"track":"Sunset Lover","artist":"Petit Biscuit"},{"track":"Electric Feel","artist":"MGMT"},{"track":"Here Comes the Sun","artist":"The Beatles"},{"track":"Send Me On My Way","artist":"Rusted Root"},{"track":"Ocean Drive","artist":"Duke Dumont"},{"track":"Slide","artist":"Calvin Harris ft. Frank Ocean & Migos"},{"track":"Young Folks","artist":"Peter Bjorn and John"},{"track":"Sun Is Shining","artist":"Bob Marley"}]
+
+ Response to Client:
+[{"track":"Bubbly","artist":"Colbie Caillat","spotifyID":"0rFOs9paloAvEtzwDX1Kmc"},{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"},{"track":"Banana Pancakes","artist":"Jack Johnson","spotifyID":"451GvHwY99NKV4zdKPRWmv"},{"track":"Santeria","artist":"Sublime","spotifyID":"2hnMS47jN0etwvFPzYk11f"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole","spotifyID":"25U7raB3ZSszayTYClh4hF"},{"track":"Kokomo","artist":"The Beach Boys","spotifyID":"5qHYXcVvc9xsFB2uH7GpMN"},{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"},{"track":"Cake by the Ocean","artist":"DNCE","spotifyID":"76hfruVvmfQbw0eYn1nmeC"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"},{"track":"Under the Boardwalk","artist":"The Drifters","spotifyID":"65jrjEhWfAvysKfnojk1i0"},{"track":"Toes","artist":"Zac Brown Band","spotifyID":"4S518ci8UY4op0Xyp6Hx6o"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys","spotifyID":"0wz1LjDb9ZNEYwOmDJ3Q4b"},{"track":"Summer Breeze","artist":"Seals & Crofts","spotifyID":"3B0ms7Xlxl16tRztKHpcu9"},{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers","spotifyID":"7yFvSYKk3g5g8e7Ffl16ws"},{"track":"Watermelon Sugar","artist":"Harry Styles","spotifyID":"6UelLqGlWMcVH1E5c4H7lY"},{"track":"Ocean Eyes","artist":"Billie Eilish","spotifyID":"2uIX8YMNjGMD7441kqyyNU"},{"track":"Malibu","artist":"Miley Cyrus","spotifyID":"1UZOjK1BwmwWU14Erba9CZ"},{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"},{"track":"Send Me On My Way","artist":"Rusted Root","spotifyID":"6XK6Zw6JkFsHXzAcMWNiIr"},{"track":"Electric Feel","artist":"MGMT","spotifyID":"3FtYbEfBqAlGO46NUDQSAt"},{"track":"Here Comes the Sun","artist":"The Beatles","spotifyID":"6dGnYIeXmHdcikdzNNDMm2"},{"track":"Come Away With Me","artist":"Norah Jones","spotifyID":"6jGnykaS6TkWp15utXSAeI"},{"track":"Young Folks","artist":"Peter Bjorn and John","spotifyID":"4dyx5SzxPPaD8xQIid5Wjj"},{"track":"Good Vibrations","artist":"The Beach Boys","spotifyID":"5t9KYe0Fhd5cW6UYT4qP8f"},{"track":"Ocean Drive","artist":"Duke Dumont","spotifyID":"4b93D55xv3YCH5mT4p6HPn"},{"track":"Sun Is Shining","artist":"Bob Marley","spotifyID":"2pZJhvpin385eqAFRp3ASJ"},{"track":"Put It All on Me","artist":"Ed Sheeran","spotifyID":"5T03itPFOPGGkvVPvPiyla"},{"track":"Doin' Time","artist":"Lana Del Rey","spotifyID":"0Oqc0kKFsQ6MhFOLBNZIGX"}]Thu Jun 26 2025 19:40:06 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Under the Boardwalk","artist":"The Drifters"},{"track":"Kokomo","artist":"The Beach Boys"},{"track":"Island in the Sun","artist":"Weezer"},{"track":"Riptide","artist":"Vance Joy"},{"track":"Banana Pancakes","artist":"Jack Johnson"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys"},{"track":"Toes","artist":"Zac Brown Band"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole"},{"track":"Good Vibrations","artist":"The Beach Boys"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers"},{"track":"Ocean Eyes","artist":"Billie Eilish"},{"track":"Cake by the Ocean","artist":"DNCE"},{"track":"Sunflower","artist":"Post Malone & Swae Lee"},{"track":"Here Comes the Sun","artist":"The Beatles"},{"track":"Summer Breeze","artist":"Seals & Crofts"},{"track":"Rockaway Beach","artist":"Ramones"},{"track":"Put It All on Me","artist":"Ed Sheeran"},{"track":"Sunset Lover","artist":"Petit Biscuit"},{"track":"Malibu","artist":"Miley Cyrus"},{"track":"Come Away With Me","artist":"Norah Jones"},{"track":"Bubbly","artist":"Colbie Caillat"},{"track":"Santeria","artist":"Sublime"},{"track":"Send Me On My Way","artist":"Rusted Root"},{"track":"Budapest","artist":"George Ezra"},{"track":"Stolen Dance","artist":"Milky Chance"},{"track":"Young Folks","artist":"Peter Bjorn and John"},{"track":"Sweater Weather","artist":"The Neighbourhood"},{"track":"Electric Feel","artist":"MGMT"},{"track":"A-Punk","artist":"Vampire Weekend"}]
+
+ Response to Client:
+[{"track":"Banana Pancakes","artist":"Jack Johnson","spotifyID":"451GvHwY99NKV4zdKPRWmv"},{"track":"Malibu","artist":"Miley Cyrus","spotifyID":"1UZOjK1BwmwWU14Erba9CZ"},{"track":"Ocean Eyes","artist":"Billie Eilish","spotifyID":"2uIX8YMNjGMD7441kqyyNU"},{"track":"Kokomo","artist":"The Beach Boys","spotifyID":"5qHYXcVvc9xsFB2uH7GpMN"},{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"},{"track":"Somewhere Over the Rainbow","artist":"Israel Kamakawiwo'ole","spotifyID":"25U7raB3ZSszayTYClh4hF"},{"track":"Toes","artist":"Zac Brown Band","spotifyID":"4S518ci8UY4op0Xyp6Hx6o"},{"track":"Cake by the Ocean","artist":"DNCE","spotifyID":"76hfruVvmfQbw0eYn1nmeC"},{"track":"Santeria","artist":"Sublime","spotifyID":"2hnMS47jN0etwvFPzYk11f"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"},{"track":"Under the Boardwalk","artist":"The Drifters","spotifyID":"65jrjEhWfAvysKfnojk1i0"},{"track":"A-Punk","artist":"Vampire Weekend","spotifyID":"3AydAydLzyyZutA0375XIz"},{"track":"Come Away With Me","artist":"Norah Jones","spotifyID":"6jGnykaS6TkWp15utXSAeI"},{"track":"Stolen Dance","artist":"Milky Chance","spotifyID":"0ZfByLXCeKchuj7zi1CJ0S"},{"track":"Summer Breeze","artist":"Seals & Crofts","spotifyID":"3B0ms7Xlxl16tRztKHpcu9"},{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"},{"track":"Young Folks","artist":"Peter Bjorn and John","spotifyID":"4dyx5SzxPPaD8xQIid5Wjj"},{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"},{"track":"Bubbly","artist":"Colbie Caillat","spotifyID":"0rFOs9paloAvEtzwDX1Kmc"},{"track":"Good Vibrations","artist":"The Beach Boys","spotifyID":"5t9KYe0Fhd5cW6UYT4qP8f"},{"track":"Sweater Weather","artist":"The Neighbourhood","spotifyID":"2QjOHCTQ1Jl3zawyYOpxh6"},{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"},{"track":"Put It All on Me","artist":"Ed Sheeran","spotifyID":"5T03itPFOPGGkvVPvPiyla"},{"track":"Here Comes the Sun","artist":"The Beatles","spotifyID":"6dGnYIeXmHdcikdzNNDMm2"},{"track":"Three Little Birds","artist":"Bob Marley & The Wailers","spotifyID":"7yFvSYKk3g5g8e7Ffl16ws"},{"track":"Rockaway Beach","artist":"Ramones","spotifyID":"2HZGsnMByx3V8KmNW6LqWF"},{"track":"Electric Feel","artist":"MGMT","spotifyID":"3FtYbEfBqAlGO46NUDQSAt"},{"track":"Send Me On My Way","artist":"Rusted Root","spotifyID":"6XK6Zw6JkFsHXzAcMWNiIr"},{"track":"Surfin' U.S.A.","artist":"The Beach Boys","spotifyID":"0wz1LjDb9ZNEYwOmDJ3Q4b"},{"track":"Budapest","artist":"George Ezra","spotifyID":"2ixsaeFioXJmMgkkbd4uj1"}]Thu Jun 26 2025 19:40:21 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:42:22 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 19:43:52 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:54:34 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:54:37 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:54:40 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 19:56:51 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 19:56:54 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 19:57:01 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 19:57:06 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Under the Sun","artist":"DIIV"}]
+
+ Response to Client:
+[{"track":"Under the Sun","artist":"DIIV","spotifyID":"3cp8xX1N5jewfKU2oY2Y08"}]Thu Jun 26 2025 19:58:24 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:58:40 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:58:40 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 19:58:41 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:58:41 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Under the Sun","artist":"DIIV"}]
+
+ Response to Client:
+[{"track":"Under the Sun","artist":"DIIV","spotifyID":"3cp8xX1N5jewfKU2oY2Y08"}]Thu Jun 26 2025 19:59:16 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 19:59:50 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:00:59 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:01:08 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:01:13 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:01:17 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Riptide","artist":"Vance Joy"}]
+
+ Response to Client:
+[{"track":"Riptide","artist":"Vance Joy","spotifyID":"2uXlHCUbq9OMUwx3hrk06o"}]Thu Jun 26 2025 20:01:23 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Under the Sun","artist":"DIIV"}]
+
+ Response to Client:
+[{"track":"Under the Sun","artist":"DIIV","spotifyID":"3cp8xX1N5jewfKU2oY2Y08"}]Thu Jun 26 2025 20:01:33 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:01:36 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:03:11 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 20:03:15 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Sunset Lover","artist":"Petit Biscuit"}]
+
+ Response to Client:
+[{"track":"Sunset Lover","artist":"Petit Biscuit","spotifyID":"3WRQUvzRvBDr4AxMWhXc5E"}]Thu Jun 26 2025 20:03:18 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:03:26 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: Beach
+
+OpenAI Response:
+[{"track":"Island in the Sun","artist":"Weezer"}]
+
+ Response to Client:
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]
