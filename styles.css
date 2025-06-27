@@ -49,7 +49,7 @@ html, body {
   font-family: 'Courier New', Courier, monospace;
 }
 /* #inputStyle::placeholder {
-  color: rgb(143, 123, 83);
+  color: rgb(17, 240, 240);
   font-style: italic; 
   font-size: medium;
 } */
@@ -60,10 +60,10 @@ html, body {
 
 @keyframes glow {
   from {
-    box-shadow: 0 0 5px #1DB954, 0 0 10px #1DB954, 0 0 20px #1DB954;
+    box-shadow: 0 0 5px rgb(17, 240, 240), 0 0 10px rgb(17, 240, 240), 0 0 20px rgb(17, 240, 240);
   }
   to {
-    box-shadow: 0 0 10px #1DB954, 0 0 20px #1DB954, 0 0 40px #1DB954;
+    box-shadow: 0 0 10px rgb(17, 240, 240), 0 0 20px rgb(17, 240, 240), 0 0 40px rgb(17, 240, 240);
   }
 }
 
