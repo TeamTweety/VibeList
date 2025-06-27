@@ -499,3 +499,132 @@ OpenAI Response:
  Response to Client:
 [{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"}]
 >>>>>>> main
+Thu Jun 26 2025 20:12:30 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"},{"track":"Back to December","artist":"Taylor Swift"},{"track":"Tears Dry on Their Own","artist":"Amy Winehouse"},{"track":"Irreplaceable","artist":"Beyoncé"},{"track":"Stay","artist":"Rihanna ft. Mikky Ekko"},{"track":"The One That Got Away","artist":"Katy Perry"},{"track":"We Belong Together","artist":"Mariah Carey"},{"track":"Un-Break My Heart","artist":"Toni Braxton"},{"track":"Since U Been Gone","artist":"Kelly Clarkson"},{"track":"I Will Always Love You","artist":"Whitney Houston"},{"track":"Bleeding Love","artist":"Leona Lewis"},{"track":"Without Me","artist":"Halsey"},{"track":"Too Good at Goodbyes","artist":"Sam Smith"},{"track":"Let Her Go","artist":"Passenger"},{"track":"Apologize","artist":"Timbaland ft. OneRepublic"},{"track":"Jar of Hearts","artist":"Christina Perri"},{"track":"Love Yourself","artist":"Justin Bieber"},{"track":"Take a Bow","artist":"Rihanna"},{"track":"Dancing On My Own","artist":"Robyn"},{"track":"Somebody That I Used to Know","artist":"Gotye ft. Kimbra"},{"track":"Cry Me a River","artist":"Justin Timberlake"},{"track":"The Scientist","artist":"Coldplay"},{"track":"Goodbye My Lover","artist":"James Blunt"},{"track":"All I Want","artist":"Kodaline"},{"track":"Skinny Love","artist":"Bon Iver"},{"track":"When I Was Your Man","artist":"Bruno Mars"},{"track":"I Will Survive","artist":"Gloria Gaynor"},{"track":"Nothing Compares 2 U","artist":"Sinéad O'Connor"},{"track":"Before He Cheats","artist":"Carrie Underwood"},{"track":"Stronger","artist":"Kanye West"}]
+
+ Response to Client:
+[{"track":"Irreplaceable","artist":"Beyoncé","spotifyID":"1G7DcLzPnopdZjLkev0K4e"},{"track":"Back to December","artist":"Taylor Swift","spotifyID":"79uDOz0zuuWS7HWxzMmTa2"},{"track":"Without Me","artist":"Halsey","spotifyID":"6FZDfxM3a3UCqtzo5pxSLZ"},{"track":"Stay","artist":"Rihanna ft. Mikky Ekko","spotifyID":"2JwS47l2MKrOji0ufc6Je0"},{"track":"We Belong Together","artist":"Mariah Carey","spotifyID":"3LmvfNUQtglbTrydsdIqFU"},{"track":"Let Her Go","artist":"Passenger","spotifyID":"1KxwZYyzWNyZSRyErj2ojT"},{"track":"Too Good at Goodbyes","artist":"Sam Smith","spotifyID":"1mXVgsBdtIVeCLJnSnmtdV"},{"track":"I Will Survive","artist":"Gloria Gaynor","spotifyID":"7rIovIsXE6kMn629b7kDig"},{"track":"Dancing On My Own","artist":"Robyn","spotifyID":"7g13jf3zqlP5S68Voo5v9m"},{"track":"Take a Bow","artist":"Rihanna","spotifyID":"3goSVuTt3fDYDP6kRnFwuL"},{"track":"I Will Always Love You","artist":"Whitney Houston","spotifyID":"4eHbdreAnSOrDDsFfc4Fpm"},{"track":"Jar of Hearts","artist":"Christina Perri","spotifyID":"0HZhYMZOcUzZKSFwPOti6m"},{"track":"All I Want","artist":"Kodaline","spotifyID":"0NlGoUyOJSuSHmngoibVAs"},{"track":"When I Was Your Man","artist":"Bruno Mars","spotifyID":"0nJW01T7XtvILxQgC5J7Wh"},{"track":"Since U Been Gone","artist":"Kelly Clarkson","spotifyID":"3xrn9i8zhNZsTtcoWgQEAd"},{"track":"Bleeding Love","artist":"Leona Lewis","spotifyID":"7wZUrN8oemZfsEd1CGkbXE"},{"track":"The One That Got Away","artist":"Katy Perry","spotifyID":"6hkOqJ5mE093AQf2lbZnsG"},{"track":"Un-Break My Heart","artist":"Toni Braxton","spotifyID":"5Ihd9HrPvOADyVoonH9ZjB"},{"track":"Love Yourself","artist":"Justin Bieber","spotifyID":"50kpGaPAhYJ3sGmk6vplg0"},{"track":"The Scientist","artist":"Coldplay","spotifyID":"75JFxkI2RXiU7L9VXzMkle"},{"track":"Cry Me a River","artist":"Justin Timberlake","spotifyID":"7Lf7oSEVdzZqTA0kEDSlS5"},{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"},{"track":"Goodbye My Lover","artist":"James Blunt","spotifyID":"6gxycjJNMgmAyfzUXBN80P"},{"track":"Before He Cheats","artist":"Carrie Underwood","spotifyID":"0ZUo4YjG4saFnEJhdWp9Bt"},{"track":"Nothing Compares 2 U","artist":"Sinéad O'Connor","spotifyID":"5GHY1DFWKz3Prg2V0Iodqo"},{"track":"Stronger","artist":"Kanye West","spotifyID":"0j2T0R9dR9qdJYsB7ciXhf"},{"track":"Tears Dry on Their Own","artist":"Amy Winehouse","spotifyID":"7MDfN1ldfTMtuXXdVz2Pzc"},{"track":"Skinny Love","artist":"Bon Iver","spotifyID":"3B3eOgLJSqPEA0RfboIQVM"}]Thu Jun 26 2025 20:12:36 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:24 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:30 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:35 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:37 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:42 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:48 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:54 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:15:58 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"}]
+
+ Response to Client:
+[{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"}]Thu Jun 26 2025 20:17:22 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"},{"track":"Back to December","artist":"Taylor Swift"},{"track":"Tears Dry on Their Own","artist":"Amy Winehouse"},{"track":"Irreplaceable","artist":"Beyoncé"},{"track":"Since U Been Gone","artist":"Kelly Clarkson"},{"track":"The One That Got Away","artist":"Katy Perry"},{"track":"We Are Never Ever Getting Back Together","artist":"Taylor Swift"},{"track":"Before He Cheats","artist":"Carrie Underwood"},{"track":"Bleeding Love","artist":"Leona Lewis"},{"track":"Jar of Hearts","artist":"Christina Perri"},{"track":"Apologize","artist":"Timbaland ft. OneRepublic"},{"track":"Cry Me a River","artist":"Justin Timberlake"},{"track":"Un-Break My Heart","artist":"Toni Braxton"},{"track":"I Will Always Love You","artist":"Whitney Houston"},{"track":"Without Me","artist":"Halsey"},{"track":"Love Yourself","artist":"Justin Bieber"},{"track":"Too Good at Goodbyes","artist":"Sam Smith"},{"track":"Sorry","artist":"Justin Bieber"},{"track":"Take a Bow","artist":"Rihanna"},{"track":"Let Her Go","artist":"Passenger"},{"track":"The Scientist","artist":"Coldplay"},{"track":"Goodbye My Lover","artist":"James Blunt"},{"track":"All I Want","artist":"Kodaline"},{"track":"Dancing On My Own","artist":"Robyn"},{"track":"Stay","artist":"Rihanna ft. Mikky Ekko"},{"track":"Need You Now","artist":"Lady A"},{"track":"I Will Survive","artist":"Gloria Gaynor"},{"track":"Stronger","artist":"Kanye West"},{"track":"Survivor","artist":"Destiny's Child"},{"track":"Better Man","artist":"Little Big Town"}]
+
+ Response to Client:
+[{"track":"Irreplaceable","artist":"Beyoncé","spotifyID":"1G7DcLzPnopdZjLkev0K4e"},{"track":"Un-Break My Heart","artist":"Toni Braxton","spotifyID":"5Ihd9HrPvOADyVoonH9ZjB"},{"track":"Tears Dry on Their Own","artist":"Amy Winehouse","spotifyID":"7MDfN1ldfTMtuXXdVz2Pzc"},{"track":"Before He Cheats","artist":"Carrie Underwood","spotifyID":"0ZUo4YjG4saFnEJhdWp9Bt"},{"track":"All I Want","artist":"Kodaline","spotifyID":"0NlGoUyOJSuSHmngoibVAs"},{"track":"Back to December","artist":"Taylor Swift","spotifyID":"79uDOz0zuuWS7HWxzMmTa2"},{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"},{"track":"Stronger","artist":"Kanye West","spotifyID":"0j2T0R9dR9qdJYsB7ciXhf"},{"track":"Cry Me a River","artist":"Justin Timberlake","spotifyID":"7Lf7oSEVdzZqTA0kEDSlS5"},{"track":"Too Good at Goodbyes","artist":"Sam Smith","spotifyID":"1mXVgsBdtIVeCLJnSnmtdV"},{"track":"Since U Been Gone","artist":"Kelly Clarkson","spotifyID":"3xrn9i8zhNZsTtcoWgQEAd"},{"track":"I Will Survive","artist":"Gloria Gaynor","spotifyID":"7rIovIsXE6kMn629b7kDig"},{"track":"Bleeding Love","artist":"Leona Lewis","spotifyID":"7wZUrN8oemZfsEd1CGkbXE"},{"track":"Sorry","artist":"Justin Bieber","spotifyID":"09CtPGIpYB4BrO8qb1RGsF"},{"track":"Need You Now","artist":"Lady A","spotifyID":"11EX5yhxr9Ihl3IN1asrfK"},{"track":"Survivor","artist":"Destiny's Child","spotifyID":"2Mpj1Ul5OFPyyP4wB62Rvi"},{"track":"Take a Bow","artist":"Rihanna","spotifyID":"3goSVuTt3fDYDP6kRnFwuL"},{"track":"The Scientist","artist":"Coldplay","spotifyID":"75JFxkI2RXiU7L9VXzMkle"},{"track":"Without Me","artist":"Halsey","spotifyID":"6FZDfxM3a3UCqtzo5pxSLZ"},{"track":"Let Her Go","artist":"Passenger","spotifyID":"1KxwZYyzWNyZSRyErj2ojT"},{"track":"Dancing On My Own","artist":"Robyn","spotifyID":"7g13jf3zqlP5S68Voo5v9m"},{"track":"Love Yourself","artist":"Justin Bieber","spotifyID":"50kpGaPAhYJ3sGmk6vplg0"},{"track":"Goodbye My Lover","artist":"James Blunt","spotifyID":"6gxycjJNMgmAyfzUXBN80P"},{"track":"I Will Always Love You","artist":"Whitney Houston","spotifyID":"4eHbdreAnSOrDDsFfc4Fpm"},{"track":"We Are Never Ever Getting Back Together","artist":"Taylor Swift","spotifyID":"5YqltLsjdqFtvqE7Nrysvs"},{"track":"The One That Got Away","artist":"Katy Perry","spotifyID":"6hkOqJ5mE093AQf2lbZnsG"},{"track":"Jar of Hearts","artist":"Christina Perri","spotifyID":"0HZhYMZOcUzZKSFwPOti6m"},{"track":"Stay","artist":"Rihanna ft. Mikky Ekko","spotifyID":"2JwS47l2MKrOji0ufc6Je0"},{"track":"Better Man","artist":"Little Big Town","spotifyID":"23TxRN09aR1RB0G0tFoT0b"}]Thu Jun 26 2025 20:17:28 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Back to Black","artist":"Amy Winehouse"}]
+
+ Response to Client:
+[{"track":"Back to Black","artist":"Amy Winehouse","spotifyID":"3FAclTFfvUuQYnEsptbK8w"}]Thu Jun 26 2025 20:18:05 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Someone Like You","artist":"Adele"},{"track":"Back to December","artist":"Taylor Swift"},{"track":"Tears Dry on Their Own","artist":"Amy Winehouse"},{"track":"Irreplaceable","artist":"Beyoncé"},{"track":"Stay","artist":"Rihanna"},{"track":"The One That Got Away","artist":"Katy Perry"},{"track":"We Belong Together","artist":"Mariah Carey"},{"track":"Un-break My Heart","artist":"Toni Braxton"},{"track":"Since U Been Gone","artist":"Kelly Clarkson"},{"track":"Bleeding Love","artist":"Leona Lewis"},{"track":"Without Me","artist":"Halsey"},{"track":"Too Good at Goodbyes","artist":"Sam Smith"},{"track":"Let Her Go","artist":"Passenger"},{"track":"Love Yourself","artist":"Justin Bieber"},{"track":"Apologize","artist":"Timbaland ft. OneRepublic"},{"track":"Jar of Hearts","artist":"Christina Perri"},{"track":"Rolling in the Deep","artist":"Adele"},{"track":"When I Was Your Man","artist":"Bruno Mars"},{"track":"Take a Bow","artist":"Rihanna"},{"track":"I Will Always Love You","artist":"Whitney Houston"},{"track":"Crying in the Club","artist":"Camila Cabello"},{"track":"Sorry","artist":"Justin Bieber"},{"track":"The Scientist","artist":"Coldplay"},{"track":"Goodbye My Lover","artist":"James Blunt"},{"track":"I Will Survive","artist":"Gloria Gaynor"},{"track":"Need You Now","artist":"Lady A"},{"track":"Big Girls Don't Cry","artist":"Fergie"},{"track":"All I Want","artist":"Kodaline"},{"track":"Somebody That I Used to Know","artist":"Gotye ft. Kimbra"},{"track":"Dancing On My Own","artist":"Robyn"}]
+
+ Response to Client:
+[{"track":"The One That Got Away","artist":"Katy Perry","spotifyID":"6hkOqJ5mE093AQf2lbZnsG"},{"track":"Someone Like You","artist":"Adele","spotifyID":"1zwMYTA5nlNjZxYrvBB2pV"},{"track":"Since U Been Gone","artist":"Kelly Clarkson","spotifyID":"3xrn9i8zhNZsTtcoWgQEAd"},{"track":"Rolling in the Deep","artist":"Adele","spotifyID":"1c8gk2PeTE04A1pIDH9YMk"},{"track":"Goodbye My Lover","artist":"James Blunt","spotifyID":"6gxycjJNMgmAyfzUXBN80P"},{"track":"I Will Survive","artist":"Gloria Gaynor","spotifyID":"7rIovIsXE6kMn629b7kDig"},{"track":"Too Good at Goodbyes","artist":"Sam Smith","spotifyID":"1mXVgsBdtIVeCLJnSnmtdV"},{"track":"Tears Dry on Their Own","artist":"Amy Winehouse","spotifyID":"7MDfN1ldfTMtuXXdVz2Pzc"},{"track":"Big Girls Don't Cry","artist":"Fergie","spotifyID":"4AniPkv5vgdE1n6VKreiyI"},{"track":"Let Her Go","artist":"Passenger","spotifyID":"1KxwZYyzWNyZSRyErj2ojT"},{"track":"Jar of Hearts","artist":"Christina Perri","spotifyID":"0HZhYMZOcUzZKSFwPOti6m"},{"track":"Back to December","artist":"Taylor Swift","spotifyID":"79uDOz0zuuWS7HWxzMmTa2"},{"track":"Love Yourself","artist":"Justin Bieber","spotifyID":"50kpGaPAhYJ3sGmk6vplg0"},{"track":"When I Was Your Man","artist":"Bruno Mars","spotifyID":"0nJW01T7XtvILxQgC5J7Wh"},{"track":"Take a Bow","artist":"Rihanna","spotifyID":"3goSVuTt3fDYDP6kRnFwuL"},{"track":"Irreplaceable","artist":"Beyoncé","spotifyID":"1G7DcLzPnopdZjLkev0K4e"},{"track":"Without Me","artist":"Halsey","spotifyID":"6FZDfxM3a3UCqtzo5pxSLZ"},{"track":"The Scientist","artist":"Coldplay","spotifyID":"75JFxkI2RXiU7L9VXzMkle"},{"track":"Need You Now","artist":"Lady A","spotifyID":"11EX5yhxr9Ihl3IN1asrfK"},{"track":"Bleeding Love","artist":"Leona Lewis","spotifyID":"7wZUrN8oemZfsEd1CGkbXE"},{"track":"We Belong Together","artist":"Mariah Carey","spotifyID":"3LmvfNUQtglbTrydsdIqFU"},{"track":"I Will Always Love You","artist":"Whitney Houston","spotifyID":"4eHbdreAnSOrDDsFfc4Fpm"},{"track":"Crying in the Club","artist":"Camila Cabello","spotifyID":"1SJtlNRJDeYHioymcvsqev"},{"track":"Stay","artist":"Rihanna","spotifyID":"789CxjEOtO76BVD1A9yJQH"},{"track":"Dancing On My Own","artist":"Robyn","spotifyID":"7g13jf3zqlP5S68Voo5v9m"},{"track":"Sorry","artist":"Justin Bieber","spotifyID":"09CtPGIpYB4BrO8qb1RGsF"},{"track":"Un-break My Heart","artist":"Toni Braxton","spotifyID":"5Ihd9HrPvOADyVoonH9ZjB"},{"track":"All I Want","artist":"Kodaline","spotifyID":"0NlGoUyOJSuSHmngoibVAs"}]Thu Jun 26 2025 20:18:10 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Back to Black","artist":"Amy Winehouse"}]
+
+ Response to Client:
+[{"track":"Back to Black","artist":"Amy Winehouse","spotifyID":"3FAclTFfvUuQYnEsptbK8w"}]Thu Jun 26 2025 20:18:15 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Somebody That I Used to Know","artist":"Gotye"}]
+
+ Response to Client:
+[{"track":"Somebody That I Used to Know","artist":"Gotye","spotifyID":"4wCmqSrbyCgxEXROQE6vtV"}]Thu Jun 26 2025 20:18:26 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: break-up
+
+OpenAI Response:
+[{"track":"Before He Cheats","artist":"Carrie Underwood"}]
+
+ Response to Client:
+[{"track":"Before He Cheats","artist":"Carrie Underwood","spotifyID":"0ZUo4YjG4saFnEJhdWp9Bt"}]
