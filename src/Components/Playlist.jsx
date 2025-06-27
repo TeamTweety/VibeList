@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 
 import { Songs } from './Songs';
 import { RefreshPlaylist } from './RefreshPlaylist';
-// import { RefreshPlaylist } from './RefreshPlaylist';
 
 export function Playlist() {
   const [currentVibe, setCurrentVibe] = useState('');
@@ -25,14 +24,14 @@ export function Playlist() {
     }
   }, []);
 
-  useEffect(() => {
+  useEffect(() => { 
     // Save rejected songs to session storage w/e it changes
     if (rejectedSongs.length > 0) {
       sessionStorage.setItem('rejectedSongs', JSON.stringify(rejectedSongs));
     }
   }, [rejectedSongs]);
 
-  useEffect(() => {
+  useEffect(() => { 
     // For controlling the song mapping
     const currentPlaylist = JSON.parse(
       sessionStorage.getItem('currentPlaylist')
@@ -83,11 +82,11 @@ export function Playlist() {
   return (
     <div className='playlist'>
       {/* Header Div */}
-      <RefreshPlaylist refreshList={handleRefresh} />
       <div className='playlist-header'>
         <h3>
           Current Vibe: <span className='vibe-text'>{currentVibe}</span>
         </h3>
+        <RefreshPlaylist refreshList={handleRefresh} />
       </div>
 
       {/* Song List Divs */}

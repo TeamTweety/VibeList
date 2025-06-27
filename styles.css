@@ -96,7 +96,8 @@ html, body {
 .secondPage {
   min-height: 100vh;
   font-family: system-ui, -apple-system, sans-serif;
-  background-color: rgb(17, 17, 17);
+  /* background-color: rgb(17, 17, 17); */
+  background-image: url('./src/assets/vibelist_background.jpg');
 
   display: flex;
   flex-direction: column;
@@ -108,17 +109,7 @@ html, body {
 .navBar {
   position: absolute;
   top: 2rem;
-  left: 5rem;
-}
-
-.nav-link {
-  text-decoration: none;
-  color: white;
-}
-
-.nav-link:hover {
-  text-decoration: none;
-  color: #1DB954;
+  left: 7rem;
 }
 
 .visualizer {
@@ -167,12 +158,12 @@ html, body {
   padding: 1.5rem;
   color: rgb(31, 31, 31);
   position: relative;
-  overflow: scroll;
+  overflow: auto;
 }
 
 .playlist-header {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   margin-bottom: 1.5rem;
