@@ -84,7 +84,7 @@ export function Playlist() {
       {/* Header Div */}
       <div className='playlist-header'>
         <h3>
-          Current Vibe: <span className='vibe-text'>{currentVibe}</span>
+          Here is your <span className='vibe-text'>{currentVibe}</span> playlist
         </h3>
         <RefreshPlaylist refreshList={handleRefresh} />
       </div>

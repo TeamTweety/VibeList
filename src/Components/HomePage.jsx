@@ -47,7 +47,7 @@ export function HomePage() {
                 <img src="./src/assets/vibelist_logo.png" alt="Logo" className="logo" />
              </div>
             <form id ="formStyle" onSubmit={handleSubmit}>
-              <h1 id="promptQuestion">Your Vibes. Our playlist</h1>
+              <h1 id="promptQuestion">Your Vibes. Our Playlist.</h1>
               <input 
                 id="inputStyle"
                 className={isLoading ? 'loading' : ''}

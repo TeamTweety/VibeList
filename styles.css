@@ -98,6 +98,7 @@ html, body {
   font-family: system-ui, -apple-system, sans-serif;
   /* background-color: rgb(17, 17, 17); */
   background-image: url('./src/assets/vibelist_background.jpg');
+  background-size: cover;
 
   display: flex;
   flex-direction: column;
