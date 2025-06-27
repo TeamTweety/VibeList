@@ -1,7 +1,6 @@
 import React from 'react';
 import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
-import { Test } from './testComponent';
 
 export function HomePage() {
     const navigate = useNavigate();
