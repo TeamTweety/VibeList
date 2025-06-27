@@ -35,7 +35,7 @@ export function Playlist() {
     // For controlling the song mapping
     const currentPlaylist = JSON.parse(
       sessionStorage.getItem('currentPlaylist')
-    ); //! Comment in when we get backend working!
+    ); 
     setSongs(currentPlaylist);
   }, []);
 

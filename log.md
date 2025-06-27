@@ -422,4 +422,36 @@ OpenAI Response:
 [{"track":"Clair de Lune","artist":"Claude Debussy"}]
 
  Response to Client:
+[{"track":"Clair de Lune","artist":"Claude Debussy","spotifyID":"5u5aVJKjSMJr4zesMPz7bL"}]Thu Jun 26 2025 22:21:43 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: classical
+
+OpenAI Response:
+[{"track":"Clair de Lune","artist":"Claude Debussy"}]
+
+ Response to Client:
+[{"track":"Clair de Lune","artist":"Claude Debussy","spotifyID":"5u5aVJKjSMJr4zesMPz7bL"}]Thu Jun 26 2025 22:21:46 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: classical
+
+OpenAI Response:
+[{"track":"Clair de Lune","artist":"Claude Debussy"}]
+
+ Response to Client:
+[{"track":"Clair de Lune","artist":"Claude Debussy","spotifyID":"5u5aVJKjSMJr4zesMPz7bL"}]Thu Jun 26 2025 22:21:48 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: classical
+
+OpenAI Response:
+[{"track":"Clair de Lune","artist":"Claude Debussy"}]
+
+ Response to Client:
+[{"track":"Clair de Lune","artist":"Claude Debussy","spotifyID":"5u5aVJKjSMJr4zesMPz7bL"}]Thu Jun 26 2025 22:22:03 GMT-0700 (Pacific Daylight Time)
+
+User Vibe: classical
+
+OpenAI Response:
+[{"track":"Clair de Lune","artist":"Claude Debussy"}]
+
+ Response to Client:
 [{"track":"Clair de Lune","artist":"Claude Debussy","spotifyID":"5u5aVJKjSMJr4zesMPz7bL"}]
