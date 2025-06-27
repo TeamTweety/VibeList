@@ -102,11 +102,11 @@ export async function newTest(req, res, next) {
   const response = await fetch(`https://api.spotify.com/v1/users/1166729216/playlists`, {
     method: 'POST',
     headers: {
-      Authorization: `${spotifyToken.token_type} BQCCXALajea-6P-uRWyfwMn6cy56GTVUmRGkRXjleUtULklu-JxDOU120bfea5MQ3B0ebSn0bK2tbZOuPZuhr8H0mLf4o2H72rhWMyNuR4H5H7XSrQq__uIijQlwO01pSRQpsQXNZ18E4FgbFN1q1uVzUKlKPQpEsMwAVyTW9JmNYZ7NwgRWgJRkDievRXhP0n-2vMaAXyNXiV7bT_G8zI1iwzCQnsJVEuKW6Abx8o8UsJTg5-eAcend1tJooCUwYqnKTq6RbsPHgsB5gwM_wUppcl7iqlhv8w6ijCFGS144TLA-ub-3XP0tru3bGniEJmaIPzRuYOufhaWO77XijyTUI8gNK-96GZ3c93yEsr2V_pnNoshA`,
+      Authorization: `${spotifyToken.token_type} BQDcOx8cpt5_yGFrg04I7DWemgeYUDeWoH272I-rMzWmui9d9t-67UhztDGaOWWt5f63PWrQTYMr5KXZoRj5ZtcxcqXPepGEb9WOf1NObMnyqxEa18qfHQWoZLDXsBtiSDPO8LTGcE6H-68hQbAhi48d4GVdU_GBxV9WJF7zBbKs3kOyG02vvX2yqiNBRqqlAKKjhdm16Ij_gVwAt2DoC9SdqVsHqx2popNNmf4-lRmmUmLEc-_klSAvs6YYJPEjNhVbLM0i8poqeLSgRf4W5lECd3gcwOrTCobD1lbKNZdZvVNwMkJIzkCMTngni6of7SiPjTBAPNP77T_Po6RN3YsgBsCt7uEf8x8Pc9MnQvvTKTACha71`,
       "Content-Type": 'application/json',
     },
       body: JSON.stringify({
-    "name": "Foo Playlist",
+    "name": "Beach Playlist",
     "description": "New playlist description",
     "public": false
 })

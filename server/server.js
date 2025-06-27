@@ -5,6 +5,7 @@ import { createPlaylist, getSong, getToken, getUserID, newTest } from './control
 import { parseUserVibe } from './controllers/userVibeController.js';
 import { queryOpenAI } from './controllers/openaiController.js';
 import { logController } from './controllers/logController.js';
+import { getPlaylist } from './controllers/playlistController.js';
 
 // Server setup
 const PORT = 3000;
@@ -27,7 +28,7 @@ app.post('/refreshSong', parseUserVibe, queryOpenAI, getToken, getSong, logContr
   res.status(200).send(res.locals.searchResults);
 });
 
-app.post('/test', getToken, newTest, (req, res) => {
+app.post('/test', getToken, getPlaylist, (req, res) => {
   res.status(200).json({
     playlistURI: res.locals.playlistURI,
   });
