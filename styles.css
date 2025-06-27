@@ -98,6 +98,9 @@ html, body {
   font-family: system-ui, -apple-system, sans-serif;
   /* background-color: rgb(17, 17, 17); */
   background-image: url('./src/assets/vibelist_background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;background-image: url('./src/assets/vibelist_background.jpg');
 
   display: flex;
   flex-direction: column;
@@ -226,23 +229,31 @@ html, body {
 }
 
 .refreshButton {
-  background: none;
+  background-color: white;
+  border-radius: 100px;
+  
   border: none;
   padding: 0.5rem;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: transform 0.3s ease;
+  transition: transform 0.5s ease;
   margin-left: auto;
-}
-
-.reload-icon {
-  width: 70px;         
-  height: 70px;
+  transform: rotate(0deg);
+  transition: transform 0.5s;
   
 }
 
-.refreshButton:hover .reload-icon {
-  transform: rotate(90deg);  
+.reload-icon {
+  width: 65px;         
+  height: 70px;
+  margin-bottom: 3px;
+  
+}
+
+.refreshButton:hover {
+   transform: rotate(-360deg);
+   background: #3aaed4;
+  
 }
