@@ -382,4 +382,68 @@ OpenAI Response:
 [{"track":"Island in the Sun","artist":"Weezer"}]
 
  Response to Client:
-[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]
+[{"track":"Island in the Sun","artist":"Weezer","spotifyID":"2MLHyLy5z5l5YRp7momlgw"}]Thu Jun 26 2025 20:07:33 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves"},{"track":"Summer of '69","artist":"Bryan Adams"},{"track":"California Gurls","artist":"Katy Perry"},{"track":"Good Vibrations","artist":"The Beach Boys"},{"track":"Blinding Lights","artist":"The Weeknd"},{"track":"Watermelon Sugar","artist":"Harry Styles"},{"track":"Shut Up and Dance","artist":"WALK THE MOON"},{"track":"Can't Stop the Feeling!","artist":"Justin Timberlake"},{"track":"Levitating","artist":"Dua Lipa"},{"track":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars"},{"track":"Happy","artist":"Pharrell Williams"},{"track":"Get Lucky","artist":"Daft Punk ft. Pharrell Williams"},{"track":"Sunflower","artist":"Post Malone & Swae Lee"},{"track":"Dancing in the Moonlight","artist":"Toploader"},{"track":"Wake Me Up","artist":"Avicii"},{"track":"Rude","artist":"MAGIC!"},{"track":"Cake by the Ocean","artist":"DNCE"},{"track":"On the Floor","artist":"Jennifer Lopez ft. Pitbull"},{"track":"Despacito","artist":"Luis Fonsi ft. Daddy Yankee"},{"track":"Cheap Thrills","artist":"Sia"},{"track":"Treasure","artist":"Bruno Mars"},{"track":"I Gotta Feeling","artist":"The Black Eyed Peas"},{"track":"Party in the USA","artist":"Miley Cyrus"},{"track":"Rockabye","artist":"Clean Bandit ft. Sean Paul & Anne-Marie"},{"track":"Shape of You","artist":"Ed Sheeran"},{"track":"Summer","artist":"Calvin Harris"},{"track":"Cool for the Summer","artist":"Demi Lovato"},{"track":"Hot in Herre","artist":"Nelly"},{"track":"Senorita","artist":"Shawn Mendes & Camila Cabello"},{"track":"Viva La Vida","artist":"Coldplay"}]
+
+ Response to Client:
+[{"track":"Watermelon Sugar","artist":"Harry Styles","spotifyID":"6UelLqGlWMcVH1E5c4H7lY"},{"track":"Can't Stop the Feeling!","artist":"Justin Timberlake","spotifyID":"1WkMMavIMc4JZ8cfMmxHkI"},{"track":"Good Vibrations","artist":"The Beach Boys","spotifyID":"5t9KYe0Fhd5cW6UYT4qP8f"},{"track":"California Gurls","artist":"Katy Perry","spotifyID":"6KOEK6SeCEZOQkLj5M1PxH"},{"track":"Levitating","artist":"Dua Lipa","spotifyID":"5nujrmhLynf4yMoMtj8AQF"},{"track":"Blinding Lights","artist":"The Weeknd","spotifyID":"0VjIjW4GlUZAMYd2vXMi3b"},{"track":"Get Lucky","artist":"Daft Punk ft. Pharrell Williams","spotifyID":"2jyjdujFPnzqtCr3229yls"},{"track":"Party in the USA","artist":"Miley Cyrus","spotifyID":"5Q0Nhxo0l2bP3pNjpGJwV1"},{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"},{"track":"Cake by the Ocean","artist":"DNCE","spotifyID":"76hfruVvmfQbw0eYn1nmeC"},{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"},{"track":"Wake Me Up","artist":"Avicii","spotifyID":"0nrRP2bk19rLc0orkWPQk2"},{"track":"Viva La Vida","artist":"Coldplay","spotifyID":"1mea3bSkSGXuIRvnydlB5b"},{"track":"Hot in Herre","artist":"Nelly","spotifyID":"04KTF78FFg8sOHC1BADqbY"},{"track":"Summer of '69","artist":"Bryan Adams","spotifyID":"0GONea6G2XdnHWjNZd6zt3"},{"track":"Happy","artist":"Pharrell Williams","spotifyID":"60nZcImufyMA1MKQY3dcCH"},{"track":"Dancing in the Moonlight","artist":"Toploader","spotifyID":"3Fzlg5r1IjhLk2qRw667od"},{"track":"Shape of You","artist":"Ed Sheeran","spotifyID":"7qiZfU4dY1lWllzX7mPBI3"},{"track":"Rude","artist":"MAGIC!","spotifyID":"6RtPijgfPKROxEzTHNRiDp"},{"track":"Senorita","artist":"Shawn Mendes & Camila Cabello","spotifyID":"6v3KW9xbzN5yKLt9YKDYA2"},{"track":"Cheap Thrills","artist":"Sia","spotifyID":"3S4px9f4lceWdKf0gWciFu"},{"track":"Cool for the Summer","artist":"Demi Lovato","spotifyID":"3uwnnTQcHM1rDqSfA4gQNz"},{"track":"Summer","artist":"Calvin Harris","spotifyID":"6YUTL4dYpB9xZO5qExPf05"},{"track":"I Gotta Feeling","artist":"The Black Eyed Peas","spotifyID":"2H1047e0oMSj10dgp7p2VG"},{"track":"Treasure","artist":"Bruno Mars","spotifyID":"55h7vJchibLdUkxdlX3fK7"},{"track":"Shut Up and Dance","artist":"WALK THE MOON","spotifyID":"4kbj5MwxO1bq9wjT5g9HaA"}]Thu Jun 26 2025 20:07:39 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves"}]
+
+ Response to Client:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"}]Thu Jun 26 2025 20:07:45 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Sunflower","artist":"Post Malone & Swae Lee"}]
+
+ Response to Client:
+[{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"}]Thu Jun 26 2025 20:07:52 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves"}]
+
+ Response to Client:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"}]Thu Jun 26 2025 20:07:54 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves"}]
+
+ Response to Client:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"}]Thu Jun 26 2025 20:08:00 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Sunflower","artist":"Post Malone & Swae Lee"}]
+
+ Response to Client:
+[{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"}]Thu Jun 26 2025 20:08:09 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves"}]
+
+ Response to Client:
+[{"track":"Walking on Sunshine","artist":"Katrina and the Waves","spotifyID":"05wIrZSwuaVWhcv5FfqeH0"}]Thu Jun 26 2025 20:08:13 GMT-0400 (Eastern Daylight Time)
+
+User Vibe: summer
+
+OpenAI Response:
+[{"track":"Sunflower","artist":"Post Malone & Swae Lee"}]
+
+ Response to Client:
+[{"track":"Sunflower","artist":"Post Malone & Swae Lee","spotifyID":"0RiRZpuVRbi7oqRdSMwhQY"}]
