@@ -68,7 +68,7 @@ export async function Test() {
         grant_type: 'authorization_code',
         code,
         redirect_uri: redirectUri,
-        code_verifier: codeVerifier,
+        ...(codeVerifier ? { code_verifier: codeVerifier } : {}),
       }),
     };
 
