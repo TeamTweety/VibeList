@@ -1,5 +1,3 @@
-
-
 export const parseUserVibe = async (req, res, next) => {
     if (!req.body.userVibe) {
         const error = {
